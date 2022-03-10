@@ -1,2 +1,2 @@
-# HECD
-Human Evaluated Colourisation Dataset
+# HECD (Human Evaluated Colourisation Dataset)
+
