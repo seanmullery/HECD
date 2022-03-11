@@ -26,5 +26,6 @@ And then run the following command from inside the bokeh_app folder locally.
     bokeh serve --show bokeh_analysis.py
 
 It should run in your web browser. It will require the files in Data, so make sure they are also available locally in the same structure as above.
+This is still a bit of a work in progress. In the legend A stands for images that are modifications from the ground truth while N stands for images that are modified from the White balanced corrected version.
 
   ![image](Bokeh_Screenshot.png)
