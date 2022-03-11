@@ -19,10 +19,10 @@ As explained in the paper, the data is then processed and the processed data can
 
 The bokeh_app folder, contains an interactive app to help navigate the statistics of the dataset.
 
-To run this you will have to install bokeh https://docs.bokeh.org/en/latest/docs/first_steps.html#first-steps
+To run this you will have to [install bokeh](https://docs.bokeh.org/en/latest/docs/first_steps.html#first-steps)
 
 And then run the following command from inside the bokeh_app folder locally.
 
-  bokeh serve --show bokeh_analysis.py
+    bokeh serve --show bokeh_analysis.py
 
 It should run in your web browser. It will require the files in Data, so make sure they are also available locally in the same structure as above.
