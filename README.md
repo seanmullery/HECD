@@ -1,6 +1,6 @@
 ## HECD (Human Evaluated Colourisation Dataset)
 
-#This is a dataset of 20 scenes with 65 recolourisations of each scene.
+# This is a dataset of 20 scenes with 65 recolourisations of each scene.
 
 Auto-colourisation is an ill-posed problem with many possible colourisations for a given grey-scale prior.
 The current method for training deep neural networks for colourisation is to take any natural image dataset and convert it to a luminance-chrominance colour space. The luminance is then the prior and the two chrominance channels represent the ground truth target that the model must learn to predict. This allows only a single plausible colourisation for a grey-scale prior.
