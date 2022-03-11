@@ -26,3 +26,5 @@ And then run the following command from inside the bokeh_app folder locally.
     bokeh serve --show bokeh_analysis.py
 
 It should run in your web browser. It will require the files in Data, so make sure they are also available locally in the same structure as above.
+
+  ![image](/HECDImages/015004A.jpg)
