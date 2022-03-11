@@ -1,0 +1,1301 @@
+Reference Number,File Name,Global details,Segment details,Hue,Chroma,
+187029,187029B_1.jpg,mean chroma shift by -2sd,
+187029,187029B_2.jpg,mean chroma shift by -1sd,
+187029,187029B_3.jpg,mean chroma shift by +1sd,
+187029,187029B_4.jpg,mean chroma shift by +2sd,
+187029,187029C_1.jpg,sd chroma expand-contract by 0.25,
+187029,187029C_2.jpg,sd chroma expand-contract by 0.5,
+187029,187029C_3.jpg,sd chroma expand-contract by 2.0,
+187029,187029C_4.jpg,sd chroma expand-contract by 4.0,
+025098,025098B_1.jpg,mean chroma shift by -2sd,
+025098,025098B_2.jpg,mean chroma shift by -1sd,
+025098,025098B_3.jpg,mean chroma shift by +1sd,
+025098,025098B_4.jpg,mean chroma shift by +2sd,
+025098,025098C_1.jpg,sd chroma expand-contract by 0.25,
+025098,025098C_2.jpg,sd chroma expand-contract by 0.5,
+025098,025098C_3.jpg,sd chroma expand-contract by 2.0,
+025098,025098C_4.jpg,sd chroma expand-contract by 4.0,
+242078,242078B_1.jpg,mean chroma shift by -2sd,
+242078,242078B_2.jpg,mean chroma shift by -1sd,
+242078,242078B_3.jpg,mean chroma shift by +1sd,
+242078,242078B_4.jpg,mean chroma shift by +2sd,
+242078,242078C_1.jpg,sd chroma expand-contract by 0.25,
+242078,242078C_2.jpg,sd chroma expand-contract by 0.5,
+242078,242078C_3.jpg,sd chroma expand-contract by 2.0,
+242078,242078C_4.jpg,sd chroma expand-contract by 4.0,
+022090,022090B_1.jpg,mean chroma shift by -2sd,
+022090,022090B_2.jpg,mean chroma shift by -1sd,
+022090,022090B_3.jpg,mean chroma shift by +1sd,
+022090,022090B_4.jpg,mean chroma shift by +2sd,
+022090,022090C_1.jpg,sd chroma expand-contract by 0.25,
+022090,022090C_2.jpg,sd chroma expand-contract by 0.5,
+022090,022090C_3.jpg,sd chroma expand-contract by 2.0,
+022090,022090C_4.jpg,sd chroma expand-contract by 4.0,
+198023,198023A.jpg,white balance corrected reference file
+198023,198023AB_1.jpg,mean chroma shift by -2sd,
+198023,198023AB_2.jpg,mean chroma shift by -1sd,
+198023,198023AB_3.jpg,mean chroma shift by +1sd,
+198023,198023AB_4.jpg,mean chroma shift by +2sd,
+198023,198023AC_1.jpg,sd chroma expand-contract by 0.25,
+198023,198023AC_2.jpg,sd chroma expand-contract by 0.5,
+198023,198023AC_3.jpg,sd chroma expand-contract by 2.0,
+198023,198023AC_4.jpg,sd chroma expand-contract by 4.0,
+323016,323016A.jpg,white balance corrected reference file
+323016,323016AB_1.jpg,mean chroma shift by -2sd,
+323016,323016AB_2.jpg,mean chroma shift by -1sd,
+323016,323016AB_3.jpg,mean chroma shift by +1sd,
+323016,323016AB_4.jpg,mean chroma shift by +2sd,
+323016,323016AC_1.jpg,sd chroma expand-contract by 0.25,
+323016,323016AC_2.jpg,sd chroma expand-contract by 0.5,
+323016,323016AC_3.jpg,sd chroma expand-contract by 2.0,
+323016,323016AC_4.jpg,sd chroma expand-contract by 4.0,
+015004,015004B_1.jpg,mean chroma shift by -2sd,
+015004,015004B_2.jpg,mean chroma shift by -1sd,
+015004,015004B_3.jpg,mean chroma shift by +1sd,
+015004,015004B_4.jpg,mean chroma shift by +2sd,
+015004,015004C_1.jpg,sd chroma expand-contract by 0.25,
+015004,015004C_2.jpg,sd chroma expand-contract by 0.5,
+015004,015004C_3.jpg,sd chroma expand-contract by 2.0,
+015004,015004C_4.jpg,sd chroma expand-contract by 4.0,
+022093,022093B_1.jpg,mean chroma shift by -2sd,
+022093,022093B_2.jpg,mean chroma shift by -1sd,
+022093,022093B_3.jpg,mean chroma shift by +1sd,
+022093,022093B_4.jpg,mean chroma shift by +2sd,
+022093,022093C_1.jpg,sd chroma expand-contract by 0.25,
+022093,022093C_2.jpg,sd chroma expand-contract by 0.5,
+022093,022093C_3.jpg,sd chroma expand-contract by 2.0,
+022093,022093C_4.jpg,sd chroma expand-contract by 4.0,
+376001,376001A.jpg,white balance corrected reference file
+376001,376001AB_1.jpg,mean chroma shift by -2sd,
+376001,376001AB_2.jpg,mean chroma shift by -1sd,
+376001,376001AB_3.jpg,mean chroma shift by +1sd,
+376001,376001AB_4.jpg,mean chroma shift by +2sd,
+376001,376001AC_1.jpg,sd chroma expand-contract by 0.25,
+376001,376001AC_2.jpg,sd chroma expand-contract by 0.5,
+376001,376001AC_3.jpg,sd chroma expand-contract by 2.0,
+376001,376001AC_4.jpg,sd chroma expand-contract by 4.0,
+153093,153093B_1.jpg,mean chroma shift by -2sd,
+153093,153093B_2.jpg,mean chroma shift by -1sd,
+153093,153093B_3.jpg,mean chroma shift by +1sd,
+153093,153093B_4.jpg,mean chroma shift by +2sd,
+153093,153093C_1.jpg,sd chroma expand-contract by 0.25,
+153093,153093C_2.jpg,sd chroma expand-contract by 0.5,
+153093,153093C_3.jpg,sd chroma expand-contract by 2.0,
+153093,153093C_4.jpg,sd chroma expand-contract by 4.0,
+151087,151087B_1.jpg,mean chroma shift by -2sd,
+151087,151087B_2.jpg,mean chroma shift by -1sd,
+151087,151087B_3.jpg,mean chroma shift by +1sd,
+151087,151087B_4.jpg,mean chroma shift by +2sd,
+151087,151087C_1.jpg,sd chroma expand-contract by 0.25,
+151087,151087C_2.jpg,sd chroma expand-contract by 0.5,
+151087,151087C_3.jpg,sd chroma expand-contract by 2.0,
+151087,151087C_4.jpg,sd chroma expand-contract by 4.0,
+151087,151087A.jpg,white balance corrected reference file
+151087,151087AB_1.jpg,mean chroma shift by -2sd,
+151087,151087AB_2.jpg,mean chroma shift by -1sd,
+151087,151087AB_3.jpg,mean chroma shift by +1sd,
+151087,151087AB_4.jpg,mean chroma shift by +2sd,
+151087,151087AC_1.jpg,sd chroma expand-contract by 0.25,
+151087,151087AC_2.jpg,sd chroma expand-contract by 0.5,
+151087,151087AC_3.jpg,sd chroma expand-contract by 2.0,
+151087,151087AC_4.jpg,sd chroma expand-contract by 4.0,
+046076,046076B_1.jpg,mean chroma shift by -2sd,
+046076,046076B_2.jpg,mean chroma shift by -1sd,
+046076,046076B_3.jpg,mean chroma shift by +1sd,
+046076,046076B_4.jpg,mean chroma shift by +2sd,
+046076,046076C_1.jpg,sd chroma expand-contract by 0.25,
+046076,046076C_2.jpg,sd chroma expand-contract by 0.5,
+046076,046076C_3.jpg,sd chroma expand-contract by 2.0,
+046076,046076C_4.jpg,sd chroma expand-contract by 4.0,
+015004,015004A.jpg,white balance corrected reference file
+015004,015004AB_1.jpg,mean chroma shift by -2sd,
+015004,015004AB_2.jpg,mean chroma shift by -1sd,
+015004,015004AB_3.jpg,mean chroma shift by +1sd,
+015004,015004AB_4.jpg,mean chroma shift by +2sd,
+015004,015004AC_1.jpg,sd chroma expand-contract by 0.25,
+015004,015004AC_2.jpg,sd chroma expand-contract by 0.5,
+015004,015004AC_3.jpg,sd chroma expand-contract by 2.0,
+015004,015004AC_4.jpg,sd chroma expand-contract by 4.0,
+198023,198023B_1.jpg,mean chroma shift by -2sd,
+198023,198023B_2.jpg,mean chroma shift by -1sd,
+198023,198023B_3.jpg,mean chroma shift by +1sd,
+198023,198023B_4.jpg,mean chroma shift by +2sd,
+198023,198023C_1.jpg,sd chroma expand-contract by 0.25,
+198023,198023C_2.jpg,sd chroma expand-contract by 0.5,
+198023,198023C_3.jpg,sd chroma expand-contract by 2.0,
+198023,198023C_4.jpg,sd chroma expand-contract by 4.0,
+056028,056028B_1.jpg,mean chroma shift by -2sd,
+056028,056028B_2.jpg,mean chroma shift by -1sd,
+056028,056028B_3.jpg,mean chroma shift by +1sd,
+056028,056028B_4.jpg,mean chroma shift by +2sd,
+056028,056028C_1.jpg,sd chroma expand-contract by 0.25,
+056028,056028C_2.jpg,sd chroma expand-contract by 0.5,
+056028,056028C_3.jpg,sd chroma expand-contract by 2.0,
+056028,056028C_4.jpg,sd chroma expand-contract by 4.0,
+065019,065019B_1.jpg,mean chroma shift by -2sd,
+065019,065019B_2.jpg,mean chroma shift by -1sd,
+065019,065019B_3.jpg,mean chroma shift by +1sd,
+065019,065019B_4.jpg,mean chroma shift by +2sd,
+065019,065019C_1.jpg,sd chroma expand-contract by 0.25,
+065019,065019C_2.jpg,sd chroma expand-contract by 0.5,
+065019,065019C_3.jpg,sd chroma expand-contract by 2.0,
+065019,065019C_4.jpg,sd chroma expand-contract by 4.0,
+118020,118020A.jpg,white balance corrected reference file
+118020,118020AB_1.jpg,mean chroma shift by -2sd,
+118020,118020AB_2.jpg,mean chroma shift by -1sd,
+118020,118020AB_3.jpg,mean chroma shift by +1sd,
+118020,118020AB_4.jpg,mean chroma shift by +2sd,
+118020,118020AC_1.jpg,sd chroma expand-contract by 0.25,
+118020,118020AC_2.jpg,sd chroma expand-contract by 0.5,
+118020,118020AC_3.jpg,sd chroma expand-contract by 2.0,
+118020,118020AC_4.jpg,sd chroma expand-contract by 4.0,
+065019,065019A.jpg,white balance corrected reference file
+065019,065019AB_1.jpg,mean chroma shift by -2sd,
+065019,065019AB_2.jpg,mean chroma shift by -1sd,
+065019,065019AB_3.jpg,mean chroma shift by +1sd,
+065019,065019AB_4.jpg,mean chroma shift by +2sd,
+065019,065019AC_1.jpg,sd chroma expand-contract by 0.25,
+065019,065019AC_2.jpg,sd chroma expand-contract by 0.5,
+065019,065019AC_3.jpg,sd chroma expand-contract by 2.0,
+065019,065019AC_4.jpg,sd chroma expand-contract by 4.0,
+140075,140075A.jpg,white balance corrected reference file
+140075,140075AB_1.jpg,mean chroma shift by -2sd,
+140075,140075AB_2.jpg,mean chroma shift by -1sd,
+140075,140075AB_3.jpg,mean chroma shift by +1sd,
+140075,140075AB_4.jpg,mean chroma shift by +2sd,
+140075,140075AC_1.jpg,sd chroma expand-contract by 0.25,
+140075,140075AC_2.jpg,sd chroma expand-contract by 0.5,
+140075,140075AC_3.jpg,sd chroma expand-contract by 2.0,
+140075,140075AC_4.jpg,sd chroma expand-contract by 4.0,
+022090,022090A.jpg,white balance corrected reference file
+022090,022090AB_1.jpg,mean chroma shift by -2sd,
+022090,022090AB_2.jpg,mean chroma shift by -1sd,
+022090,022090AB_3.jpg,mean chroma shift by +1sd,
+022090,022090AB_4.jpg,mean chroma shift by +2sd,
+022090,022090AC_1.jpg,sd chroma expand-contract by 0.25,
+022090,022090AC_2.jpg,sd chroma expand-contract by 0.5,
+022090,022090AC_3.jpg,sd chroma expand-contract by 2.0,
+022090,022090AC_4.jpg,sd chroma expand-contract by 4.0,
+239096,239096B_1.jpg,mean chroma shift by -2sd,
+239096,239096B_2.jpg,mean chroma shift by -1sd,
+239096,239096B_3.jpg,mean chroma shift by +1sd,
+239096,239096B_4.jpg,mean chroma shift by +2sd,
+239096,239096C_1.jpg,sd chroma expand-contract by 0.25,
+239096,239096C_2.jpg,sd chroma expand-contract by 0.5,
+239096,239096C_3.jpg,sd chroma expand-contract by 2.0,
+239096,239096C_4.jpg,sd chroma expand-contract by 4.0,
+118035,118035B_1.jpg,mean chroma shift by -2sd,
+118035,118035B_2.jpg,mean chroma shift by -1sd,
+118035,118035B_3.jpg,mean chroma shift by +1sd,
+118035,118035B_4.jpg,mean chroma shift by +2sd,
+118035,118035C_1.jpg,sd chroma expand-contract by 0.25,
+118035,118035C_2.jpg,sd chroma expand-contract by 0.5,
+118035,118035C_3.jpg,sd chroma expand-contract by 2.0,
+118035,118035C_4.jpg,sd chroma expand-contract by 4.0,
+025098,025098A.jpg,white balance corrected reference file
+025098,025098AB_1.jpg,mean chroma shift by -2sd,
+025098,025098AB_2.jpg,mean chroma shift by -1sd,
+025098,025098AB_3.jpg,mean chroma shift by +1sd,
+025098,025098AB_4.jpg,mean chroma shift by +2sd,
+025098,025098AC_1.jpg,sd chroma expand-contract by 0.25,
+025098,025098AC_2.jpg,sd chroma expand-contract by 0.5,
+025098,025098AC_3.jpg,sd chroma expand-contract by 2.0,
+025098,025098AC_4.jpg,sd chroma expand-contract by 4.0,
+140075,140075B_1.jpg,mean chroma shift by -2sd,
+140075,140075B_2.jpg,mean chroma shift by -1sd,
+140075,140075B_3.jpg,mean chroma shift by +1sd,
+140075,140075B_4.jpg,mean chroma shift by +2sd,
+140075,140075C_1.jpg,sd chroma expand-contract by 0.25,
+140075,140075C_2.jpg,sd chroma expand-contract by 0.5,
+140075,140075C_3.jpg,sd chroma expand-contract by 2.0,
+140075,140075C_4.jpg,sd chroma expand-contract by 4.0,
+118020,118020B_1.jpg,mean chroma shift by -2sd,
+118020,118020B_2.jpg,mean chroma shift by -1sd,
+118020,118020B_3.jpg,mean chroma shift by +1sd,
+118020,118020B_4.jpg,mean chroma shift by +2sd,
+118020,118020C_1.jpg,sd chroma expand-contract by 0.25,
+118020,118020C_2.jpg,sd chroma expand-contract by 0.5,
+118020,118020C_3.jpg,sd chroma expand-contract by 2.0,
+118020,118020C_4.jpg,sd chroma expand-contract by 4.0,
+046076,046076A.jpg,white balance corrected reference file
+046076,046076AB_1.jpg,mean chroma shift by -2sd,
+046076,046076AB_2.jpg,mean chroma shift by -1sd,
+046076,046076AB_3.jpg,mean chroma shift by +1sd,
+046076,046076AB_4.jpg,mean chroma shift by +2sd,
+046076,046076AC_1.jpg,sd chroma expand-contract by 0.25,
+046076,046076AC_2.jpg,sd chroma expand-contract by 0.5,
+046076,046076AC_3.jpg,sd chroma expand-contract by 2.0,
+046076,046076AC_4.jpg,sd chroma expand-contract by 4.0,
+078019,078019A.jpg,white balance corrected reference file
+078019,078019AB_1.jpg,mean chroma shift by -2sd,
+078019,078019AB_2.jpg,mean chroma shift by -1sd,
+078019,078019AB_3.jpg,mean chroma shift by +1sd,
+078019,078019AB_4.jpg,mean chroma shift by +2sd,
+078019,078019AC_1.jpg,sd chroma expand-contract by 0.25,
+078019,078019AC_2.jpg,sd chroma expand-contract by 0.5,
+078019,078019AC_3.jpg,sd chroma expand-contract by 2.0,
+078019,078019AC_4.jpg,sd chroma expand-contract by 4.0,
+153093,153093A.jpg,white balance corrected reference file
+153093,153093AB_1.jpg,mean chroma shift by -2sd,
+153093,153093AB_2.jpg,mean chroma shift by -1sd,
+153093,153093AB_3.jpg,mean chroma shift by +1sd,
+153093,153093AB_4.jpg,mean chroma shift by +2sd,
+153093,153093AC_1.jpg,sd chroma expand-contract by 0.25,
+153093,153093AC_2.jpg,sd chroma expand-contract by 0.5,
+153093,153093AC_3.jpg,sd chroma expand-contract by 2.0,
+153093,153093AC_4.jpg,sd chroma expand-contract by 4.0,
+323016,323016B_1.jpg,mean chroma shift by -2sd,
+323016,323016B_2.jpg,mean chroma shift by -1sd,
+323016,323016B_3.jpg,mean chroma shift by +1sd,
+323016,323016B_4.jpg,mean chroma shift by +2sd,
+323016,323016C_1.jpg,sd chroma expand-contract by 0.25,
+323016,323016C_2.jpg,sd chroma expand-contract by 0.5,
+323016,323016C_3.jpg,sd chroma expand-contract by 2.0,
+323016,323016C_4.jpg,sd chroma expand-contract by 4.0,
+376001,376001B_1.jpg,mean chroma shift by -2sd,
+376001,376001B_2.jpg,mean chroma shift by -1sd,
+376001,376001B_3.jpg,mean chroma shift by +1sd,
+376001,376001B_4.jpg,mean chroma shift by +2sd,
+376001,376001C_1.jpg,sd chroma expand-contract by 0.25,
+376001,376001C_2.jpg,sd chroma expand-contract by 0.5,
+376001,376001C_3.jpg,sd chroma expand-contract by 2.0,
+376001,376001C_4.jpg,sd chroma expand-contract by 4.0,
+022093,022093A.jpg,white balance corrected reference file
+022093,022093AB_1.jpg,mean chroma shift by -2sd,
+022093,022093AB_2.jpg,mean chroma shift by -1sd,
+022093,022093AB_3.jpg,mean chroma shift by +1sd,
+022093,022093AB_4.jpg,mean chroma shift by +2sd,
+022093,022093AC_1.jpg,sd chroma expand-contract by 0.25,
+022093,022093AC_2.jpg,sd chroma expand-contract by 0.5,
+022093,022093AC_3.jpg,sd chroma expand-contract by 2.0,
+022093,022093AC_4.jpg,sd chroma expand-contract by 4.0,
+118035,118035A.jpg,white balance corrected reference file
+118035,118035AB_1.jpg,mean chroma shift by -2sd,
+118035,118035AB_2.jpg,mean chroma shift by -1sd,
+118035,118035AB_3.jpg,mean chroma shift by +1sd,
+118035,118035AB_4.jpg,mean chroma shift by +2sd,
+118035,118035AC_1.jpg,sd chroma expand-contract by 0.25,
+118035,118035AC_2.jpg,sd chroma expand-contract by 0.5,
+118035,118035AC_3.jpg,sd chroma expand-contract by 2.0,
+118035,118035AC_4.jpg,sd chroma expand-contract by 4.0,
+024004,024004A.jpg,white balance corrected reference file
+024004,024004AB_1.jpg,mean chroma shift by -2sd,
+024004,024004AB_2.jpg,mean chroma shift by -1sd,
+024004,024004AB_3.jpg,mean chroma shift by +1sd,
+024004,024004AB_4.jpg,mean chroma shift by +2sd,
+024004,024004AC_1.jpg,sd chroma expand-contract by 0.25,
+024004,024004AC_2.jpg,sd chroma expand-contract by 0.5,
+024004,024004AC_3.jpg,sd chroma expand-contract by 2.0,
+024004,024004AC_4.jpg,sd chroma expand-contract by 4.0,
+056028,056028A.jpg,white balance corrected reference file
+056028,056028AB_1.jpg,mean chroma shift by -2sd,
+056028,056028AB_2.jpg,mean chroma shift by -1sd,
+056028,056028AB_3.jpg,mean chroma shift by +1sd,
+056028,056028AB_4.jpg,mean chroma shift by +2sd,
+056028,056028AC_1.jpg,sd chroma expand-contract by 0.25,
+056028,056028AC_2.jpg,sd chroma expand-contract by 0.5,
+056028,056028AC_3.jpg,sd chroma expand-contract by 2.0,
+056028,056028AC_4.jpg,sd chroma expand-contract by 4.0,
+239096,239096A.jpg,white balance corrected reference file
+239096,239096AB_1.jpg,mean chroma shift by -2sd,
+239096,239096AB_2.jpg,mean chroma shift by -1sd,
+239096,239096AB_3.jpg,mean chroma shift by +1sd,
+239096,239096AB_4.jpg,mean chroma shift by +2sd,
+239096,239096AC_1.jpg,sd chroma expand-contract by 0.25,
+239096,239096AC_2.jpg,sd chroma expand-contract by 0.5,
+239096,239096AC_3.jpg,sd chroma expand-contract by 2.0,
+239096,239096AC_4.jpg,sd chroma expand-contract by 4.0,
+024004,024004B_1.jpg,mean chroma shift by -2sd,
+024004,024004B_2.jpg,mean chroma shift by -1sd,
+024004,024004B_3.jpg,mean chroma shift by +1sd,
+024004,024004B_4.jpg,mean chroma shift by +2sd,
+024004,024004C_1.jpg,sd chroma expand-contract by 0.25,
+024004,024004C_2.jpg,sd chroma expand-contract by 0.5,
+024004,024004C_3.jpg,sd chroma expand-contract by 2.0,
+024004,024004C_4.jpg,sd chroma expand-contract by 4.0,
+078019,078019B_1.jpg,mean chroma shift by -2sd,
+078019,078019B_2.jpg,mean chroma shift by -1sd,
+078019,078019B_3.jpg,mean chroma shift by +1sd,
+078019,078019B_4.jpg,mean chroma shift by +2sd,
+078019,078019C_1.jpg,sd chroma expand-contract by 0.25,
+078019,078019C_2.jpg,sd chroma expand-contract by 0.5,
+078019,078019C_3.jpg,sd chroma expand-contract by 2.0,
+078019,078019C_4.jpg,sd chroma expand-contract by 4.0,
+242078,242078A.jpg,white balance corrected reference file
+242078,242078AB_1.jpg,mean chroma shift by -2sd,
+242078,242078AB_2.jpg,mean chroma shift by -1sd,
+242078,242078AB_3.jpg,mean chroma shift by +1sd,
+242078,242078AB_4.jpg,mean chroma shift by +2sd,
+242078,242078AC_1.jpg,sd chroma expand-contract by 0.25,
+242078,242078AC_2.jpg,sd chroma expand-contract by 0.5,
+242078,242078AC_3.jpg,sd chroma expand-contract by 2.0,
+242078,242078AC_4.jpg,sd chroma expand-contract by 4.0,
+187029,187029A.jpg,white balance corrected reference file
+187029,187029AB_1.jpg,mean chroma shift by -2sd,
+187029,187029AB_2.jpg,mean chroma shift by -1sd,
+187029,187029AB_3.jpg,mean chroma shift by +1sd,
+187029,187029AB_4.jpg,mean chroma shift by +2sd,
+187029,187029AC_1.jpg,sd chroma expand-contract by 0.25,
+187029,187029AC_2.jpg,sd chroma expand-contract by 0.5,
+187029,187029AC_3.jpg,sd chroma expand-contract by 2.0,
+187029,187029AC_4.jpg,sd chroma expand-contract by 4.0,
+187029,187029D_1.jpg,derigistration shift by 0.01,
+187029,187029D_2.jpg,derigistration shift by 0.02,
+187029,187029D_3.jpg,derigistration shift by 0.03,
+187029,187029D_4.jpg,derigistration shift by 0.04,
+025098,025098D_1.jpg,derigistration shift by 0.01,
+025098,025098D_2.jpg,derigistration shift by 0.02,
+025098,025098D_3.jpg,derigistration shift by 0.03,
+025098,025098D_4.jpg,derigistration shift by 0.04,
+242078,242078D_1.jpg,derigistration shift by 0.01,
+242078,242078D_2.jpg,derigistration shift by 0.02,
+242078,242078D_3.jpg,derigistration shift by 0.03,
+242078,242078D_4.jpg,derigistration shift by 0.04,
+022090,022090D_1.jpg,derigistration shift by 0.01,
+022090,022090D_2.jpg,derigistration shift by 0.02,
+022090,022090D_3.jpg,derigistration shift by 0.03,
+022090,022090D_4.jpg,derigistration shift by 0.04,
+198023,198023AD_1.jpg,derigistration shift by 0.01,
+198023,198023AD_2.jpg,derigistration shift by 0.02,
+198023,198023AD_3.jpg,derigistration shift by 0.03,
+198023,198023AD_4.jpg,derigistration shift by 0.04,
+323016,323016AD_1.jpg,derigistration shift by 0.01,
+323016,323016AD_2.jpg,derigistration shift by 0.02,
+323016,323016AD_3.jpg,derigistration shift by 0.03,
+323016,323016AD_4.jpg,derigistration shift by 0.04,
+015004,015004D_1.jpg,derigistration shift by 0.01,
+015004,015004D_2.jpg,derigistration shift by 0.02,
+015004,015004D_3.jpg,derigistration shift by 0.03,
+015004,015004D_4.jpg,derigistration shift by 0.04,
+022093,022093D_1.jpg,derigistration shift by 0.01,
+022093,022093D_2.jpg,derigistration shift by 0.02,
+022093,022093D_3.jpg,derigistration shift by 0.03,
+022093,022093D_4.jpg,derigistration shift by 0.04,
+376001,376001AD_1.jpg,derigistration shift by 0.01,
+376001,376001AD_2.jpg,derigistration shift by 0.02,
+376001,376001AD_3.jpg,derigistration shift by 0.03,
+376001,376001AD_4.jpg,derigistration shift by 0.04,
+153093,153093D_1.jpg,derigistration shift by 0.01,
+153093,153093D_2.jpg,derigistration shift by 0.02,
+153093,153093D_3.jpg,derigistration shift by 0.03,
+153093,153093D_4.jpg,derigistration shift by 0.04,
+151087,151087D_1.jpg,derigistration shift by 0.01,
+151087,151087D_2.jpg,derigistration shift by 0.02,
+151087,151087D_3.jpg,derigistration shift by 0.03,
+151087,151087D_4.jpg,derigistration shift by 0.04,
+151087,151087AD_1.jpg,derigistration shift by 0.01,
+151087,151087AD_2.jpg,derigistration shift by 0.02,
+151087,151087AD_3.jpg,derigistration shift by 0.03,
+151087,151087AD_4.jpg,derigistration shift by 0.04,
+046076,046076D_1.jpg,derigistration shift by 0.01,
+046076,046076D_2.jpg,derigistration shift by 0.02,
+046076,046076D_3.jpg,derigistration shift by 0.03,
+046076,046076D_4.jpg,derigistration shift by 0.04,
+015004,015004AD_1.jpg,derigistration shift by 0.01,
+015004,015004AD_2.jpg,derigistration shift by 0.02,
+015004,015004AD_3.jpg,derigistration shift by 0.03,
+015004,015004AD_4.jpg,derigistration shift by 0.04,
+198023,198023D_1.jpg,derigistration shift by 0.01,
+198023,198023D_2.jpg,derigistration shift by 0.02,
+198023,198023D_3.jpg,derigistration shift by 0.03,
+198023,198023D_4.jpg,derigistration shift by 0.04,
+056028,056028D_1.jpg,derigistration shift by 0.01,
+056028,056028D_2.jpg,derigistration shift by 0.02,
+056028,056028D_3.jpg,derigistration shift by 0.03,
+056028,056028D_4.jpg,derigistration shift by 0.04,
+065019,065019D_1.jpg,derigistration shift by 0.01,
+065019,065019D_2.jpg,derigistration shift by 0.02,
+065019,065019D_3.jpg,derigistration shift by 0.03,
+065019,065019D_4.jpg,derigistration shift by 0.04,
+118020,118020AD_1.jpg,derigistration shift by 0.01,
+118020,118020AD_2.jpg,derigistration shift by 0.02,
+118020,118020AD_3.jpg,derigistration shift by 0.03,
+118020,118020AD_4.jpg,derigistration shift by 0.04,
+065019,065019AD_1.jpg,derigistration shift by 0.01,
+065019,065019AD_2.jpg,derigistration shift by 0.02,
+065019,065019AD_3.jpg,derigistration shift by 0.03,
+065019,065019AD_4.jpg,derigistration shift by 0.04,
+140075,140075AD_1.jpg,derigistration shift by 0.01,
+140075,140075AD_2.jpg,derigistration shift by 0.02,
+140075,140075AD_3.jpg,derigistration shift by 0.03,
+140075,140075AD_4.jpg,derigistration shift by 0.04,
+022090,022090AD_1.jpg,derigistration shift by 0.01,
+022090,022090AD_2.jpg,derigistration shift by 0.02,
+022090,022090AD_3.jpg,derigistration shift by 0.03,
+022090,022090AD_4.jpg,derigistration shift by 0.04,
+239096,239096D_1.jpg,derigistration shift by 0.01,
+239096,239096D_2.jpg,derigistration shift by 0.02,
+239096,239096D_3.jpg,derigistration shift by 0.03,
+239096,239096D_4.jpg,derigistration shift by 0.04,
+118035,118035D_1.jpg,derigistration shift by 0.01,
+118035,118035D_2.jpg,derigistration shift by 0.02,
+118035,118035D_3.jpg,derigistration shift by 0.03,
+118035,118035D_4.jpg,derigistration shift by 0.04,
+025098,025098AD_1.jpg,derigistration shift by 0.01,
+025098,025098AD_2.jpg,derigistration shift by 0.02,
+025098,025098AD_3.jpg,derigistration shift by 0.03,
+025098,025098AD_4.jpg,derigistration shift by 0.04,
+140075,140075D_1.jpg,derigistration shift by 0.01,
+140075,140075D_2.jpg,derigistration shift by 0.02,
+140075,140075D_3.jpg,derigistration shift by 0.03,
+140075,140075D_4.jpg,derigistration shift by 0.04,
+118020,118020D_1.jpg,derigistration shift by 0.01,
+118020,118020D_2.jpg,derigistration shift by 0.02,
+118020,118020D_3.jpg,derigistration shift by 0.03,
+118020,118020D_4.jpg,derigistration shift by 0.04,
+046076,046076AD_1.jpg,derigistration shift by 0.01,
+046076,046076AD_2.jpg,derigistration shift by 0.02,
+046076,046076AD_3.jpg,derigistration shift by 0.03,
+046076,046076AD_4.jpg,derigistration shift by 0.04,
+078019,078019AD_1.jpg,derigistration shift by 0.01,
+078019,078019AD_2.jpg,derigistration shift by 0.02,
+078019,078019AD_3.jpg,derigistration shift by 0.03,
+078019,078019AD_4.jpg,derigistration shift by 0.04,
+153093,153093AD_1.jpg,derigistration shift by 0.01,
+153093,153093AD_2.jpg,derigistration shift by 0.02,
+153093,153093AD_3.jpg,derigistration shift by 0.03,
+153093,153093AD_4.jpg,derigistration shift by 0.04,
+323016,323016D_1.jpg,derigistration shift by 0.01,
+323016,323016D_2.jpg,derigistration shift by 0.02,
+323016,323016D_3.jpg,derigistration shift by 0.03,
+323016,323016D_4.jpg,derigistration shift by 0.04,
+376001,376001D_1.jpg,derigistration shift by 0.01,
+376001,376001D_2.jpg,derigistration shift by 0.02,
+376001,376001D_3.jpg,derigistration shift by 0.03,
+376001,376001D_4.jpg,derigistration shift by 0.04,
+022093,022093AD_1.jpg,derigistration shift by 0.01,
+022093,022093AD_2.jpg,derigistration shift by 0.02,
+022093,022093AD_3.jpg,derigistration shift by 0.03,
+022093,022093AD_4.jpg,derigistration shift by 0.04,
+118035,118035AD_1.jpg,derigistration shift by 0.01,
+118035,118035AD_2.jpg,derigistration shift by 0.02,
+118035,118035AD_3.jpg,derigistration shift by 0.03,
+118035,118035AD_4.jpg,derigistration shift by 0.04,
+024004,024004AD_1.jpg,derigistration shift by 0.01,
+024004,024004AD_2.jpg,derigistration shift by 0.02,
+024004,024004AD_3.jpg,derigistration shift by 0.03,
+024004,024004AD_4.jpg,derigistration shift by 0.04,
+056028,056028AD_1.jpg,derigistration shift by 0.01,
+056028,056028AD_2.jpg,derigistration shift by 0.02,
+056028,056028AD_3.jpg,derigistration shift by 0.03,
+056028,056028AD_4.jpg,derigistration shift by 0.04,
+239096,239096AD_1.jpg,derigistration shift by 0.01,
+239096,239096AD_2.jpg,derigistration shift by 0.02,
+239096,239096AD_3.jpg,derigistration shift by 0.03,
+239096,239096AD_4.jpg,derigistration shift by 0.04,
+024004,024004D_1.jpg,derigistration shift by 0.01,
+024004,024004D_2.jpg,derigistration shift by 0.02,
+024004,024004D_3.jpg,derigistration shift by 0.03,
+024004,024004D_4.jpg,derigistration shift by 0.04,
+078019,078019D_1.jpg,derigistration shift by 0.01,
+078019,078019D_2.jpg,derigistration shift by 0.02,
+078019,078019D_3.jpg,derigistration shift by 0.03,
+078019,078019D_4.jpg,derigistration shift by 0.04,
+242078,242078AD_1.jpg,derigistration shift by 0.01,
+242078,242078AD_2.jpg,derigistration shift by 0.02,
+242078,242078AD_3.jpg,derigistration shift by 0.03,
+242078,242078AD_4.jpg,derigistration shift by 0.04,
+187029,187029AD_1.jpg,derigistration shift by 0.01,
+187029,187029AD_2.jpg,derigistration shift by 0.02,
+187029,187029AD_3.jpg,derigistration shift by 0.03,
+187029,187029AD_4.jpg,derigistration shift by 0.04,
+015004,015004AF_1.jpg,changing segment hue by 2 from 188 to 190,segments used were  15 25 24 from segmentor ID 1105,190,23
+015004,015004AF_2.jpg,changing segment hue by 2 from 188 to 186,segments used were  15 25 24 from segmentor ID 1105,186,23
+015004,015004AF_3.jpg,changing segment hue by 4 from 188 to 192,segments used were  15 25 24 from segmentor ID 1105,192,23
+015004,015004AF_4.jpg,changing segment hue by 4 from 188 to 184,segments used were  15 25 24 from segmentor ID 1105,184,23
+015004,015004AF_5.jpg,changing segment hue by 8 from 188 to 196,segments used were  15 25 24 from segmentor ID 1105,196,23
+015004,015004AF_6.jpg,changing segment hue by 8 from 188 to 180,segments used were  15 25 24 from segmentor ID 1105,180,23
+015004,015004AF_7.jpg,changing segment hue by 16 from 188 to 204,segments used were  15 25 24 from segmentor ID 1105,204,23
+015004,015004AF_8.jpg,changing segment hue by 16 from 188 to 172,segments used were  15 25 24 from segmentor ID 1105,172,23
+015004,015004AF_9.jpg,changing segment hue by 32 from 188 to 220,segments used were  15 25 24 from segmentor ID 1105,220,23
+015004,015004AF_10.jpg,changing segment hue by 32 from 188 to 156,segments used were  15 25 24 from segmentor ID 1105,156,23
+015004,015004AF_11.jpg,changing segment hue by 64 from 188 to 252,segments used were  15 25 24 from segmentor ID 1105,252,23
+015004,015004AF_12.jpg,changing segment hue by 64 from 188 to 124,segments used were  15 25 24 from segmentor ID 1105,124,23
+015004,015004AF_13.jpg,changing segment hue by 128 from 188 to 60,segments used were  15 25 24 from segmentor ID 1105,60,23
+015004,015004AG_1.jpg,changing segment chroma by +1sd ,segments used were  15 25 24 from segmentor ID 1105,188,33
+015004,015004AG_2.jpg,changing segment chroma by -1sd ,segments used were  15 25 24 from segmentor ID 1105,188,12
+015004,015004AG_3.jpg,changing segment chroma by +2sd ,segments used were  15 25 24 from segmentor ID 1105,188,43
+015004,015004AG_4.jpg,changing segment chroma by -2sd ,segments used were  15 25 24 from segmentor ID 1105,188,2
+015004,015004F_1.jpg,changing segment hue by 2 from 190 to 192,segments used were  15 25 24 from segmentor ID 1105,192,40
+015004,015004F_2.jpg,changing segment hue by 2 from 190 to 188,segments used were  15 25 24 from segmentor ID 1105,188,40
+015004,015004F_3.jpg,changing segment hue by 4 from 190 to 194,segments used were  15 25 24 from segmentor ID 1105,194,40
+015004,015004F_4.jpg,changing segment hue by 4 from 190 to 186,segments used were  15 25 24 from segmentor ID 1105,186,40
+015004,015004F_5.jpg,changing segment hue by 8 from 190 to 198,segments used were  15 25 24 from segmentor ID 1105,198,40
+015004,015004F_6.jpg,changing segment hue by 8 from 190 to 182,segments used were  15 25 24 from segmentor ID 1105,182,40
+015004,015004F_7.jpg,changing segment hue by 16 from 190 to 206,segments used were  15 25 24 from segmentor ID 1105,206,40
+015004,015004F_8.jpg,changing segment hue by 16 from 190 to 174,segments used were  15 25 24 from segmentor ID 1105,174,40
+015004,015004F_9.jpg,changing segment hue by 32 from 190 to 222,segments used were  15 25 24 from segmentor ID 1105,222,40
+015004,015004F_10.jpg,changing segment hue by 32 from 190 to 158,segments used were  15 25 24 from segmentor ID 1105,158,40
+015004,015004F_11.jpg,changing segment hue by 64 from 190 to 254,segments used were  15 25 24 from segmentor ID 1105,254,40
+015004,015004F_12.jpg,changing segment hue by 64 from 190 to 126,segments used were  15 25 24 from segmentor ID 1105,126,40
+015004,015004F_13.jpg,changing segment hue by 128 from 190 to 62,segments used were  15 25 24 from segmentor ID 1105,62,40
+015004,015004G_1.jpg,changing segment chroma by +1sd ,segments used were  15 25 24 from segmentor ID 1105,190,53
+015004,015004G_2.jpg,changing segment chroma by -1sd ,segments used were  15 25 24 from segmentor ID 1105,190,26
+015004,015004G_3.jpg,changing segment chroma by +2sd ,segments used were  15 25 24 from segmentor ID 1105,190,66
+015004,015004G_4.jpg,changing segment chroma by -2sd ,segments used were  15 25 24 from segmentor ID 1105,190,13
+022090,022090F_1.jpg,changing segment hue by 2 from 17 to 19,segments used were  9 10 11 77 from segmentor ID 1106,19,15
+022090,022090F_2.jpg,changing segment hue by 2 from 17 to 15,segments used were  9 10 11 77 from segmentor ID 1106,15,15
+022090,022090F_3.jpg,changing segment hue by 4 from 17 to 21,segments used were  9 10 11 77 from segmentor ID 1106,21,15
+022090,022090F_4.jpg,changing segment hue by 4 from 17 to 13,segments used were  9 10 11 77 from segmentor ID 1106,13,15
+022090,022090F_5.jpg,changing segment hue by 8 from 17 to 25,segments used were  9 10 11 77 from segmentor ID 1106,25,15
+022090,022090F_6.jpg,changing segment hue by 8 from 17 to 9,segments used were  9 10 11 77 from segmentor ID 1106,9,15
+022090,022090F_7.jpg,changing segment hue by 16 from 17 to 33,segments used were  9 10 11 77 from segmentor ID 1106,33,15
+022090,022090F_8.jpg,changing segment hue by 16 from 17 to 1,segments used were  9 10 11 77 from segmentor ID 1106,1,15
+022090,022090F_9.jpg,changing segment hue by 32 from 17 to 49,segments used were  9 10 11 77 from segmentor ID 1106,49,15
+022090,022090F_10.jpg,changing segment hue by 32 from 17 to 240,segments used were  9 10 11 77 from segmentor ID 1106,240,15
+022090,022090F_11.jpg,changing segment hue by 64 from 17 to 81,segments used were  9 10 11 77 from segmentor ID 1106,81,15
+022090,022090F_12.jpg,changing segment hue by 64 from 17 to 208,segments used were  9 10 11 77 from segmentor ID 1106,208,15
+022090,022090F_13.jpg,changing segment hue by 128 from 17 to 145,segments used were  9 10 11 77 from segmentor ID 1106,145,15
+022090,022090G_1.jpg,changing segment chroma by +1sd ,segments used were  9 10 11 77 from segmentor ID 1106,17,20
+022090,022090G_2.jpg,changing segment chroma by -1sd ,segments used were  9 10 11 77 from segmentor ID 1106,17,9
+022090,022090G_3.jpg,changing segment chroma by +2sd ,segments used were  9 10 11 77 from segmentor ID 1106,17,25
+022090,022090G_4.jpg,changing segment chroma by -2sd ,segments used were  9 10 11 77 from segmentor ID 1106,17,4
+022090,022090AF_1.jpg,changing segment hue by 2 from 224 to 226,segments used were  9 10 11 77 from segmentor ID 1106,226,17
+022090,022090AF_2.jpg,changing segment hue by 2 from 224 to 222,segments used were  9 10 11 77 from segmentor ID 1106,222,17
+022090,022090AF_3.jpg,changing segment hue by 4 from 224 to 228,segments used were  9 10 11 77 from segmentor ID 1106,228,17
+022090,022090AF_4.jpg,changing segment hue by 4 from 224 to 220,segments used were  9 10 11 77 from segmentor ID 1106,220,17
+022090,022090AF_5.jpg,changing segment hue by 8 from 224 to 232,segments used were  9 10 11 77 from segmentor ID 1106,232,17
+022090,022090AF_6.jpg,changing segment hue by 8 from 224 to 216,segments used were  9 10 11 77 from segmentor ID 1106,216,17
+022090,022090AF_7.jpg,changing segment hue by 16 from 224 to 240,segments used were  9 10 11 77 from segmentor ID 1106,240,17
+022090,022090AF_8.jpg,changing segment hue by 16 from 224 to 208,segments used were  9 10 11 77 from segmentor ID 1106,208,17
+022090,022090AF_9.jpg,changing segment hue by 32 from 224 to 0,segments used were  9 10 11 77 from segmentor ID 1106,0,17
+022090,022090AF_10.jpg,changing segment hue by 32 from 224 to 192,segments used were  9 10 11 77 from segmentor ID 1106,192,17
+022090,022090AF_11.jpg,changing segment hue by 64 from 224 to 32,segments used were  9 10 11 77 from segmentor ID 1106,32,17
+022090,022090AF_12.jpg,changing segment hue by 64 from 224 to 160,segments used were  9 10 11 77 from segmentor ID 1106,160,17
+022090,022090AF_13.jpg,changing segment hue by 128 from 224 to 96,segments used were  9 10 11 77 from segmentor ID 1106,96,17
+022090,022090AG_1.jpg,changing segment chroma by +1sd ,segments used were  9 10 11 77 from segmentor ID 1106,224,23
+022090,022090AG_2.jpg,changing segment chroma by -1sd ,segments used were  9 10 11 77 from segmentor ID 1106,224,10
+022090,022090AG_3.jpg,changing segment chroma by +2sd ,segments used were  9 10 11 77 from segmentor ID 1106,224,29
+022090,022090AG_4.jpg,changing segment chroma by -2sd ,segments used were  9 10 11 77 from segmentor ID 1106,224,4
+022093,022093F_1.jpg,changing segment hue by 2 from 45 to 47,segments used were  51 from segmentor ID 1103,47,26
+022093,022093F_2.jpg,changing segment hue by 2 from 45 to 43,segments used were  51 from segmentor ID 1103,43,26
+022093,022093F_3.jpg,changing segment hue by 4 from 45 to 49,segments used were  51 from segmentor ID 1103,49,26
+022093,022093F_4.jpg,changing segment hue by 4 from 45 to 41,segments used were  51 from segmentor ID 1103,41,26
+022093,022093F_5.jpg,changing segment hue by 8 from 45 to 53,segments used were  51 from segmentor ID 1103,53,26
+022093,022093F_6.jpg,changing segment hue by 8 from 45 to 37,segments used were  51 from segmentor ID 1103,37,26
+022093,022093F_7.jpg,changing segment hue by 16 from 45 to 61,segments used were  51 from segmentor ID 1103,61,26
+022093,022093F_8.jpg,changing segment hue by 16 from 45 to 29,segments used were  51 from segmentor ID 1103,29,26
+022093,022093F_9.jpg,changing segment hue by 32 from 45 to 77,segments used were  51 from segmentor ID 1103,77,26
+022093,022093F_10.jpg,changing segment hue by 32 from 45 to 13,segments used were  51 from segmentor ID 1103,13,26
+022093,022093F_11.jpg,changing segment hue by 64 from 45 to 109,segments used were  51 from segmentor ID 1103,109,26
+022093,022093F_12.jpg,changing segment hue by 64 from 45 to 236,segments used were  51 from segmentor ID 1103,236,26
+022093,022093F_13.jpg,changing segment hue by 128 from 45 to 173,segments used were  51 from segmentor ID 1103,173,26
+022093,022093G_1.jpg,changing segment chroma by +1sd ,segments used were  51 from segmentor ID 1103,45,35
+022093,022093G_2.jpg,changing segment chroma by -1sd ,segments used were  51 from segmentor ID 1103,45,16
+022093,022093G_3.jpg,changing segment chroma by +2sd ,segments used were  51 from segmentor ID 1103,45,44
+022093,022093G_4.jpg,changing segment chroma by -2sd ,segments used were  51 from segmentor ID 1103,45,7
+022093,022093AF_1.jpg,changing segment hue by 2 from 35 to 37,segments used were  51 from segmentor ID 1103,37,7
+022093,022093AF_2.jpg,changing segment hue by 2 from 35 to 33,segments used were  51 from segmentor ID 1103,33,7
+022093,022093AF_3.jpg,changing segment hue by 4 from 35 to 39,segments used were  51 from segmentor ID 1103,39,7
+022093,022093AF_4.jpg,changing segment hue by 4 from 35 to 31,segments used were  51 from segmentor ID 1103,31,7
+022093,022093AF_5.jpg,changing segment hue by 8 from 35 to 43,segments used were  51 from segmentor ID 1103,43,7
+022093,022093AF_6.jpg,changing segment hue by 8 from 35 to 27,segments used were  51 from segmentor ID 1103,27,7
+022093,022093AF_7.jpg,changing segment hue by 16 from 35 to 51,segments used were  51 from segmentor ID 1103,51,7
+022093,022093AF_8.jpg,changing segment hue by 16 from 35 to 19,segments used were  51 from segmentor ID 1103,19,7
+022093,022093AF_9.jpg,changing segment hue by 32 from 35 to 67,segments used were  51 from segmentor ID 1103,67,7
+022093,022093AF_10.jpg,changing segment hue by 32 from 35 to 3,segments used were  51 from segmentor ID 1103,3,7
+022093,022093AF_11.jpg,changing segment hue by 64 from 35 to 99,segments used were  51 from segmentor ID 1103,99,7
+022093,022093AF_12.jpg,changing segment hue by 64 from 35 to 226,segments used were  51 from segmentor ID 1103,226,7
+022093,022093AF_13.jpg,changing segment hue by 128 from 35 to 163,segments used were  51 from segmentor ID 1103,163,7
+022093,022093AG_1.jpg,changing segment chroma by +1sd ,segments used were  51 from segmentor ID 1103,35,19
+022093,022093AG_2.jpg,changing segment chroma by -1sd ,segments used were  51 from segmentor ID 1103,35,0
+022093,022093AG_3.jpg,changing segment chroma by +2sd ,segments used were  51 from segmentor ID 1103,35,31
+022093,022093AG_4.jpg,changing segment chroma by -2sd ,segments used were  51 from segmentor ID 1103,35,0
+024004,024004F_1.jpg,changing segment hue by 2 from 168 to 170,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,170,18
+024004,024004F_2.jpg,changing segment hue by 2 from 168 to 166,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,166,18
+024004,024004F_3.jpg,changing segment hue by 4 from 168 to 172,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,172,18
+024004,024004F_4.jpg,changing segment hue by 4 from 168 to 164,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,164,18
+024004,024004F_5.jpg,changing segment hue by 8 from 168 to 176,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,176,18
+024004,024004F_6.jpg,changing segment hue by 8 from 168 to 160,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,160,18
+024004,024004F_7.jpg,changing segment hue by 16 from 168 to 184,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,184,18
+024004,024004F_8.jpg,changing segment hue by 16 from 168 to 152,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,152,18
+024004,024004F_9.jpg,changing segment hue by 32 from 168 to 200,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,200,18
+024004,024004F_10.jpg,changing segment hue by 32 from 168 to 136,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,136,18
+024004,024004F_11.jpg,changing segment hue by 64 from 168 to 232,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,232,18
+024004,024004F_12.jpg,changing segment hue by 64 from 168 to 104,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,104,18
+024004,024004F_13.jpg,changing segment hue by 128 from 168 to 40,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,40,18
+024004,024004G_1.jpg,changing segment chroma by +1sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,168,28
+024004,024004G_2.jpg,changing segment chroma by -1sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,168,7
+024004,024004G_3.jpg,changing segment chroma by +2sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,168,39
+024004,024004G_4.jpg,changing segment chroma by -2sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,168,0
+024004,024004AF_1.jpg,changing segment hue by 2 from 178 to 180,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,180,29
+024004,024004AF_2.jpg,changing segment hue by 2 from 178 to 176,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,176,29
+024004,024004AF_3.jpg,changing segment hue by 4 from 178 to 182,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,182,29
+024004,024004AF_4.jpg,changing segment hue by 4 from 178 to 174,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,174,29
+024004,024004AF_5.jpg,changing segment hue by 8 from 178 to 186,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,186,29
+024004,024004AF_6.jpg,changing segment hue by 8 from 178 to 170,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,170,29
+024004,024004AF_7.jpg,changing segment hue by 16 from 178 to 194,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,194,29
+024004,024004AF_8.jpg,changing segment hue by 16 from 178 to 162,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,162,29
+024004,024004AF_9.jpg,changing segment hue by 32 from 178 to 210,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,210,29
+024004,024004AF_10.jpg,changing segment hue by 32 from 178 to 146,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,146,29
+024004,024004AF_11.jpg,changing segment hue by 64 from 178 to 242,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,242,29
+024004,024004AF_12.jpg,changing segment hue by 64 from 178 to 114,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,114,29
+024004,024004AF_13.jpg,changing segment hue by 128 from 178 to 50,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,50,29
+024004,024004AG_1.jpg,changing segment chroma by +1sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,178,39
+024004,024004AG_2.jpg,changing segment chroma by -1sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,178,18
+024004,024004AG_3.jpg,changing segment chroma by +2sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,178,50
+024004,024004AG_4.jpg,changing segment chroma by -2sd ,segments used were  2 3 5 6 20 21 22 31 from segmentor ID 1117,178,7
+025098,025098F_1.jpg,changing segment hue by 2 from 158 to 160,segments used were  17 from segmentor ID 1103,160,77
+025098,025098F_2.jpg,changing segment hue by 2 from 158 to 156,segments used were  17 from segmentor ID 1103,156,77
+025098,025098F_3.jpg,changing segment hue by 4 from 158 to 162,segments used were  17 from segmentor ID 1103,162,77
+025098,025098F_4.jpg,changing segment hue by 4 from 158 to 154,segments used were  17 from segmentor ID 1103,154,77
+025098,025098F_5.jpg,changing segment hue by 8 from 158 to 166,segments used were  17 from segmentor ID 1103,166,77
+025098,025098F_6.jpg,changing segment hue by 8 from 158 to 150,segments used were  17 from segmentor ID 1103,150,77
+025098,025098F_7.jpg,changing segment hue by 16 from 158 to 174,segments used were  17 from segmentor ID 1103,174,77
+025098,025098F_8.jpg,changing segment hue by 16 from 158 to 142,segments used were  17 from segmentor ID 1103,142,77
+025098,025098F_9.jpg,changing segment hue by 32 from 158 to 190,segments used were  17 from segmentor ID 1103,190,77
+025098,025098F_10.jpg,changing segment hue by 32 from 158 to 126,segments used were  17 from segmentor ID 1103,126,77
+025098,025098F_11.jpg,changing segment hue by 64 from 158 to 222,segments used were  17 from segmentor ID 1103,222,77
+025098,025098F_12.jpg,changing segment hue by 64 from 158 to 94,segments used were  17 from segmentor ID 1103,94,77
+025098,025098F_13.jpg,changing segment hue by 128 from 158 to 30,segments used were  17 from segmentor ID 1103,30,77
+025098,025098G_1.jpg,changing segment chroma by +1sd ,segments used were  17 from segmentor ID 1103,158,98
+025098,025098G_2.jpg,changing segment chroma by -1sd ,segments used were  17 from segmentor ID 1103,158,55
+025098,025098G_3.jpg,changing segment chroma by +2sd ,segments used were  17 from segmentor ID 1103,158,119
+025098,025098G_4.jpg,changing segment chroma by -2sd ,segments used were  17 from segmentor ID 1103,158,34
+025098,025098AF_1.jpg,changing segment hue by 2 from 144 to 146,segments used were  17 from segmentor ID 1103,146,59
+025098,025098AF_2.jpg,changing segment hue by 2 from 144 to 142,segments used were  17 from segmentor ID 1103,142,59
+025098,025098AF_3.jpg,changing segment hue by 4 from 144 to 148,segments used were  17 from segmentor ID 1103,148,59
+025098,025098AF_4.jpg,changing segment hue by 4 from 144 to 140,segments used were  17 from segmentor ID 1103,140,59
+025098,025098AF_5.jpg,changing segment hue by 8 from 144 to 152,segments used were  17 from segmentor ID 1103,152,59
+025098,025098AF_6.jpg,changing segment hue by 8 from 144 to 136,segments used were  17 from segmentor ID 1103,136,59
+025098,025098AF_7.jpg,changing segment hue by 16 from 144 to 160,segments used were  17 from segmentor ID 1103,160,59
+025098,025098AF_8.jpg,changing segment hue by 16 from 144 to 128,segments used were  17 from segmentor ID 1103,128,59
+025098,025098AF_9.jpg,changing segment hue by 32 from 144 to 176,segments used were  17 from segmentor ID 1103,176,59
+025098,025098AF_10.jpg,changing segment hue by 32 from 144 to 112,segments used were  17 from segmentor ID 1103,112,59
+025098,025098AF_11.jpg,changing segment hue by 64 from 144 to 208,segments used were  17 from segmentor ID 1103,208,59
+025098,025098AF_12.jpg,changing segment hue by 64 from 144 to 80,segments used were  17 from segmentor ID 1103,80,59
+025098,025098AF_13.jpg,changing segment hue by 128 from 144 to 16,segments used were  17 from segmentor ID 1103,16,59
+025098,025098AG_1.jpg,changing segment chroma by +1sd ,segments used were  17 from segmentor ID 1103,144,77
+025098,025098AG_2.jpg,changing segment chroma by -1sd ,segments used were  17 from segmentor ID 1103,144,40
+025098,025098AG_3.jpg,changing segment chroma by +2sd ,segments used were  17 from segmentor ID 1103,144,96
+025098,025098AG_4.jpg,changing segment chroma by -2sd ,segments used were  17 from segmentor ID 1103,144,21
+046076,046076F_1.jpg,changing segment hue by 2 from 189 to 191,segments used were  8 from segmentor ID 1119,191,34
+046076,046076F_2.jpg,changing segment hue by 2 from 189 to 187,segments used were  8 from segmentor ID 1119,187,34
+046076,046076F_3.jpg,changing segment hue by 4 from 189 to 193,segments used were  8 from segmentor ID 1119,193,34
+046076,046076F_4.jpg,changing segment hue by 4 from 189 to 185,segments used were  8 from segmentor ID 1119,185,34
+046076,046076F_5.jpg,changing segment hue by 8 from 189 to 197,segments used were  8 from segmentor ID 1119,197,34
+046076,046076F_6.jpg,changing segment hue by 8 from 189 to 181,segments used were  8 from segmentor ID 1119,181,34
+046076,046076F_7.jpg,changing segment hue by 16 from 189 to 205,segments used were  8 from segmentor ID 1119,205,34
+046076,046076F_8.jpg,changing segment hue by 16 from 189 to 173,segments used were  8 from segmentor ID 1119,173,34
+046076,046076F_9.jpg,changing segment hue by 32 from 189 to 221,segments used were  8 from segmentor ID 1119,221,34
+046076,046076F_10.jpg,changing segment hue by 32 from 189 to 157,segments used were  8 from segmentor ID 1119,157,34
+046076,046076F_11.jpg,changing segment hue by 64 from 189 to 253,segments used were  8 from segmentor ID 1119,253,34
+046076,046076F_12.jpg,changing segment hue by 64 from 189 to 125,segments used were  8 from segmentor ID 1119,125,34
+046076,046076F_13.jpg,changing segment hue by 128 from 189 to 61,segments used were  8 from segmentor ID 1119,61,34
+046076,046076G_1.jpg,changing segment chroma by +1sd ,segments used were  8 from segmentor ID 1119,189,44
+046076,046076G_2.jpg,changing segment chroma by -1sd ,segments used were  8 from segmentor ID 1119,189,23
+046076,046076G_3.jpg,changing segment chroma by +2sd ,segments used were  8 from segmentor ID 1119,189,55
+046076,046076G_4.jpg,changing segment chroma by -2sd ,segments used were  8 from segmentor ID 1119,189,12
+046076,046076AF_1.jpg,changing segment hue by 2 from 185 to 187,segments used were  8 from segmentor ID 1119,187,20
+046076,046076AF_2.jpg,changing segment hue by 2 from 185 to 183,segments used were  8 from segmentor ID 1119,183,20
+046076,046076AF_3.jpg,changing segment hue by 4 from 185 to 189,segments used were  8 from segmentor ID 1119,189,20
+046076,046076AF_4.jpg,changing segment hue by 4 from 185 to 181,segments used were  8 from segmentor ID 1119,181,20
+046076,046076AF_5.jpg,changing segment hue by 8 from 185 to 193,segments used were  8 from segmentor ID 1119,193,20
+046076,046076AF_6.jpg,changing segment hue by 8 from 185 to 177,segments used were  8 from segmentor ID 1119,177,20
+046076,046076AF_7.jpg,changing segment hue by 16 from 185 to 201,segments used were  8 from segmentor ID 1119,201,20
+046076,046076AF_8.jpg,changing segment hue by 16 from 185 to 169,segments used were  8 from segmentor ID 1119,169,20
+046076,046076AF_9.jpg,changing segment hue by 32 from 185 to 217,segments used were  8 from segmentor ID 1119,217,20
+046076,046076AF_10.jpg,changing segment hue by 32 from 185 to 153,segments used were  8 from segmentor ID 1119,153,20
+046076,046076AF_11.jpg,changing segment hue by 64 from 185 to 249,segments used were  8 from segmentor ID 1119,249,20
+046076,046076AF_12.jpg,changing segment hue by 64 from 185 to 121,segments used were  8 from segmentor ID 1119,121,20
+046076,046076AF_13.jpg,changing segment hue by 128 from 185 to 57,segments used were  8 from segmentor ID 1119,57,20
+046076,046076AG_1.jpg,changing segment chroma by +1sd ,segments used were  8 from segmentor ID 1119,185,26
+046076,046076AG_2.jpg,changing segment chroma by -1sd ,segments used were  8 from segmentor ID 1119,185,13
+046076,046076AG_3.jpg,changing segment chroma by +2sd ,segments used were  8 from segmentor ID 1119,185,33
+046076,046076AG_4.jpg,changing segment chroma by -2sd ,segments used were  8 from segmentor ID 1119,185,6
+056028,056028F_1.jpg,changing segment hue by 2 from 73 to 75,segments used were  42 45 75 from segmentor ID 1130,75,22
+056028,056028F_2.jpg,changing segment hue by 2 from 73 to 71,segments used were  42 45 75 from segmentor ID 1130,71,22
+056028,056028F_3.jpg,changing segment hue by 4 from 73 to 77,segments used were  42 45 75 from segmentor ID 1130,77,22
+056028,056028F_4.jpg,changing segment hue by 4 from 73 to 69,segments used were  42 45 75 from segmentor ID 1130,69,22
+056028,056028F_5.jpg,changing segment hue by 8 from 73 to 81,segments used were  42 45 75 from segmentor ID 1130,81,22
+056028,056028F_6.jpg,changing segment hue by 8 from 73 to 65,segments used were  42 45 75 from segmentor ID 1130,65,22
+056028,056028F_7.jpg,changing segment hue by 16 from 73 to 89,segments used were  42 45 75 from segmentor ID 1130,89,22
+056028,056028F_8.jpg,changing segment hue by 16 from 73 to 57,segments used were  42 45 75 from segmentor ID 1130,57,22
+056028,056028F_9.jpg,changing segment hue by 32 from 73 to 105,segments used were  42 45 75 from segmentor ID 1130,105,22
+056028,056028F_10.jpg,changing segment hue by 32 from 73 to 41,segments used were  42 45 75 from segmentor ID 1130,41,22
+056028,056028F_11.jpg,changing segment hue by 64 from 73 to 137,segments used were  42 45 75 from segmentor ID 1130,137,22
+056028,056028F_12.jpg,changing segment hue by 64 from 73 to 9,segments used were  42 45 75 from segmentor ID 1130,9,22
+056028,056028F_13.jpg,changing segment hue by 128 from 73 to 201,segments used were  42 45 75 from segmentor ID 1130,201,22
+056028,056028G_1.jpg,changing segment chroma by +1sd ,segments used were  42 45 75 from segmentor ID 1130,73,31
+056028,056028G_2.jpg,changing segment chroma by -1sd ,segments used were  42 45 75 from segmentor ID 1130,73,12
+056028,056028G_3.jpg,changing segment chroma by +2sd ,segments used were  42 45 75 from segmentor ID 1130,73,40
+056028,056028G_4.jpg,changing segment chroma by -2sd ,segments used were  42 45 75 from segmentor ID 1130,73,3
+056028,056028AF_1.jpg,changing segment hue by 2 from 79 to 81,segments used were  42 45 75 from segmentor ID 1130,81,48
+056028,056028AF_2.jpg,changing segment hue by 2 from 79 to 77,segments used were  42 45 75 from segmentor ID 1130,77,48
+056028,056028AF_3.jpg,changing segment hue by 4 from 79 to 83,segments used were  42 45 75 from segmentor ID 1130,83,48
+056028,056028AF_4.jpg,changing segment hue by 4 from 79 to 75,segments used were  42 45 75 from segmentor ID 1130,75,48
+056028,056028AF_5.jpg,changing segment hue by 8 from 79 to 87,segments used were  42 45 75 from segmentor ID 1130,87,48
+056028,056028AF_6.jpg,changing segment hue by 8 from 79 to 71,segments used were  42 45 75 from segmentor ID 1130,71,48
+056028,056028AF_7.jpg,changing segment hue by 16 from 79 to 95,segments used were  42 45 75 from segmentor ID 1130,95,48
+056028,056028AF_8.jpg,changing segment hue by 16 from 79 to 63,segments used were  42 45 75 from segmentor ID 1130,63,48
+056028,056028AF_9.jpg,changing segment hue by 32 from 79 to 111,segments used were  42 45 75 from segmentor ID 1130,111,48
+056028,056028AF_10.jpg,changing segment hue by 32 from 79 to 47,segments used were  42 45 75 from segmentor ID 1130,47,48
+056028,056028AF_11.jpg,changing segment hue by 64 from 79 to 143,segments used were  42 45 75 from segmentor ID 1130,143,48
+056028,056028AF_12.jpg,changing segment hue by 64 from 79 to 15,segments used were  42 45 75 from segmentor ID 1130,15,48
+056028,056028AF_13.jpg,changing segment hue by 128 from 79 to 207,segments used were  42 45 75 from segmentor ID 1130,207,48
+056028,056028AG_1.jpg,changing segment chroma by +1sd ,segments used were  42 45 75 from segmentor ID 1130,79,55
+056028,056028AG_2.jpg,changing segment chroma by -1sd ,segments used were  42 45 75 from segmentor ID 1130,79,40
+056028,056028AG_3.jpg,changing segment chroma by +2sd ,segments used were  42 45 75 from segmentor ID 1130,79,63
+056028,056028AG_4.jpg,changing segment chroma by -2sd ,segments used were  42 45 75 from segmentor ID 1130,79,32
+065019,065019F_1.jpg,changing segment hue by 2 from 188 to 190,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,190,82
+065019,065019F_2.jpg,changing segment hue by 2 from 188 to 186,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,186,82
+065019,065019F_3.jpg,changing segment hue by 4 from 188 to 192,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,192,82
+065019,065019F_4.jpg,changing segment hue by 4 from 188 to 184,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,184,82
+065019,065019F_5.jpg,changing segment hue by 8 from 188 to 196,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,196,82
+065019,065019F_6.jpg,changing segment hue by 8 from 188 to 180,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,180,82
+065019,065019F_7.jpg,changing segment hue by 16 from 188 to 204,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,204,82
+065019,065019F_8.jpg,changing segment hue by 16 from 188 to 172,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,172,82
+065019,065019F_9.jpg,changing segment hue by 32 from 188 to 220,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,220,82
+065019,065019F_10.jpg,changing segment hue by 32 from 188 to 156,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,156,82
+065019,065019F_11.jpg,changing segment hue by 64 from 188 to 252,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,252,82
+065019,065019F_12.jpg,changing segment hue by 64 from 188 to 124,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,124,82
+065019,065019F_13.jpg,changing segment hue by 128 from 188 to 60,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,60,82
+065019,065019G_1.jpg,changing segment chroma by +1sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,188,114
+065019,065019G_2.jpg,changing segment chroma by -1sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,188,49
+065019,065019G_3.jpg,changing segment chroma by +2sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,188,147
+065019,065019G_4.jpg,changing segment chroma by -2sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,188,16
+065019,065019AF_1.jpg,changing segment hue by 2 from 201 to 203,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,203,32
+065019,065019AF_2.jpg,changing segment hue by 2 from 201 to 199,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,199,32
+065019,065019AF_3.jpg,changing segment hue by 4 from 201 to 205,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,205,32
+065019,065019AF_4.jpg,changing segment hue by 4 from 201 to 197,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,197,32
+065019,065019AF_5.jpg,changing segment hue by 8 from 201 to 209,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,209,32
+065019,065019AF_6.jpg,changing segment hue by 8 from 201 to 193,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,193,32
+065019,065019AF_7.jpg,changing segment hue by 16 from 201 to 217,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,217,32
+065019,065019AF_8.jpg,changing segment hue by 16 from 201 to 185,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,185,32
+065019,065019AF_9.jpg,changing segment hue by 32 from 201 to 233,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,233,32
+065019,065019AF_10.jpg,changing segment hue by 32 from 201 to 169,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,169,32
+065019,065019AF_11.jpg,changing segment hue by 64 from 201 to 9,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,9,32
+065019,065019AF_12.jpg,changing segment hue by 64 from 201 to 137,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,137,32
+065019,065019AF_13.jpg,changing segment hue by 128 from 201 to 73,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,73,32
+065019,065019AG_1.jpg,changing segment chroma by +1sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,201,43
+065019,065019AG_2.jpg,changing segment chroma by -1sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,201,20
+065019,065019AG_3.jpg,changing segment chroma by +2sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,201,54
+065019,065019AG_4.jpg,changing segment chroma by -2sd ,segments used were  0 2 4 6 8 10 18 20 21 23 25 29 30 38 40 42 44 45 101 from segmentor ID 1105,201,9
+078019,078019F_1.jpg,changing segment hue by 2 from 148 to 150,segments used were  8 from segmentor ID 1123,150,55
+078019,078019F_2.jpg,changing segment hue by 2 from 148 to 146,segments used were  8 from segmentor ID 1123,146,55
+078019,078019F_3.jpg,changing segment hue by 4 from 148 to 152,segments used were  8 from segmentor ID 1123,152,55
+078019,078019F_4.jpg,changing segment hue by 4 from 148 to 144,segments used were  8 from segmentor ID 1123,144,55
+078019,078019F_5.jpg,changing segment hue by 8 from 148 to 156,segments used were  8 from segmentor ID 1123,156,55
+078019,078019F_6.jpg,changing segment hue by 8 from 148 to 140,segments used were  8 from segmentor ID 1123,140,55
+078019,078019F_7.jpg,changing segment hue by 16 from 148 to 164,segments used were  8 from segmentor ID 1123,164,55
+078019,078019F_8.jpg,changing segment hue by 16 from 148 to 132,segments used were  8 from segmentor ID 1123,132,55
+078019,078019F_9.jpg,changing segment hue by 32 from 148 to 180,segments used were  8 from segmentor ID 1123,180,55
+078019,078019F_10.jpg,changing segment hue by 32 from 148 to 116,segments used were  8 from segmentor ID 1123,116,55
+078019,078019F_11.jpg,changing segment hue by 64 from 148 to 212,segments used were  8 from segmentor ID 1123,212,55
+078019,078019F_12.jpg,changing segment hue by 64 from 148 to 84,segments used were  8 from segmentor ID 1123,84,55
+078019,078019F_13.jpg,changing segment hue by 128 from 148 to 20,segments used were  8 from segmentor ID 1123,20,55
+078019,078019G_1.jpg,changing segment chroma by +1sd ,segments used were  8 from segmentor ID 1123,148,62
+078019,078019G_2.jpg,changing segment chroma by -1sd ,segments used were  8 from segmentor ID 1123,148,47
+078019,078019G_3.jpg,changing segment chroma by +2sd ,segments used were  8 from segmentor ID 1123,148,69
+078019,078019G_4.jpg,changing segment chroma by -2sd ,segments used were  8 from segmentor ID 1123,148,40
+078019,078019AF_1.jpg,changing segment hue by 2 from 150 to 152,segments used were  8 from segmentor ID 1123,152,61
+078019,078019AF_2.jpg,changing segment hue by 2 from 150 to 148,segments used were  8 from segmentor ID 1123,148,61
+078019,078019AF_3.jpg,changing segment hue by 4 from 150 to 154,segments used were  8 from segmentor ID 1123,154,61
+078019,078019AF_4.jpg,changing segment hue by 4 from 150 to 146,segments used were  8 from segmentor ID 1123,146,61
+078019,078019AF_5.jpg,changing segment hue by 8 from 150 to 158,segments used were  8 from segmentor ID 1123,158,61
+078019,078019AF_6.jpg,changing segment hue by 8 from 150 to 142,segments used were  8 from segmentor ID 1123,142,61
+078019,078019AF_7.jpg,changing segment hue by 16 from 150 to 166,segments used were  8 from segmentor ID 1123,166,61
+078019,078019AF_8.jpg,changing segment hue by 16 from 150 to 134,segments used were  8 from segmentor ID 1123,134,61
+078019,078019AF_9.jpg,changing segment hue by 32 from 150 to 182,segments used were  8 from segmentor ID 1123,182,61
+078019,078019AF_10.jpg,changing segment hue by 32 from 150 to 118,segments used were  8 from segmentor ID 1123,118,61
+078019,078019AF_11.jpg,changing segment hue by 64 from 150 to 214,segments used were  8 from segmentor ID 1123,214,61
+078019,078019AF_12.jpg,changing segment hue by 64 from 150 to 86,segments used were  8 from segmentor ID 1123,86,61
+078019,078019AF_13.jpg,changing segment hue by 128 from 150 to 22,segments used were  8 from segmentor ID 1123,22,61
+078019,078019AG_1.jpg,changing segment chroma by +1sd ,segments used were  8 from segmentor ID 1123,150,69
+078019,078019AG_2.jpg,changing segment chroma by -1sd ,segments used were  8 from segmentor ID 1123,150,52
+078019,078019AG_3.jpg,changing segment chroma by +2sd ,segments used were  8 from segmentor ID 1123,150,77
+078019,078019AG_4.jpg,changing segment chroma by -2sd ,segments used were  8 from segmentor ID 1123,150,44
+118020,118020F_1.jpg,changing segment hue by 2 from 160 to 162,segments used were  5 from segmentor ID 1105,162,25
+118020,118020F_2.jpg,changing segment hue by 2 from 160 to 158,segments used were  5 from segmentor ID 1105,158,25
+118020,118020F_3.jpg,changing segment hue by 4 from 160 to 164,segments used were  5 from segmentor ID 1105,164,25
+118020,118020F_4.jpg,changing segment hue by 4 from 160 to 156,segments used were  5 from segmentor ID 1105,156,25
+118020,118020F_5.jpg,changing segment hue by 8 from 160 to 168,segments used were  5 from segmentor ID 1105,168,25
+118020,118020F_6.jpg,changing segment hue by 8 from 160 to 152,segments used were  5 from segmentor ID 1105,152,25
+118020,118020F_7.jpg,changing segment hue by 16 from 160 to 176,segments used were  5 from segmentor ID 1105,176,25
+118020,118020F_8.jpg,changing segment hue by 16 from 160 to 144,segments used were  5 from segmentor ID 1105,144,25
+118020,118020F_9.jpg,changing segment hue by 32 from 160 to 192,segments used were  5 from segmentor ID 1105,192,25
+118020,118020F_10.jpg,changing segment hue by 32 from 160 to 128,segments used were  5 from segmentor ID 1105,128,25
+118020,118020F_11.jpg,changing segment hue by 64 from 160 to 224,segments used were  5 from segmentor ID 1105,224,25
+118020,118020F_12.jpg,changing segment hue by 64 from 160 to 96,segments used were  5 from segmentor ID 1105,96,25
+118020,118020F_13.jpg,changing segment hue by 128 from 160 to 32,segments used were  5 from segmentor ID 1105,32,25
+118020,118020G_1.jpg,changing segment chroma by +1sd ,segments used were  5 from segmentor ID 1105,160,34
+118020,118020G_2.jpg,changing segment chroma by -1sd ,segments used were  5 from segmentor ID 1105,160,15
+118020,118020G_3.jpg,changing segment chroma by +2sd ,segments used were  5 from segmentor ID 1105,160,43
+118020,118020G_4.jpg,changing segment chroma by -2sd ,segments used were  5 from segmentor ID 1105,160,6
+118020,118020AF_1.jpg,changing segment hue by 2 from 154 to 156,segments used were  5 from segmentor ID 1105,156,21
+118020,118020AF_2.jpg,changing segment hue by 2 from 154 to 152,segments used were  5 from segmentor ID 1105,152,21
+118020,118020AF_3.jpg,changing segment hue by 4 from 154 to 158,segments used were  5 from segmentor ID 1105,158,21
+118020,118020AF_4.jpg,changing segment hue by 4 from 154 to 150,segments used were  5 from segmentor ID 1105,150,21
+118020,118020AF_5.jpg,changing segment hue by 8 from 154 to 162,segments used were  5 from segmentor ID 1105,162,21
+118020,118020AF_6.jpg,changing segment hue by 8 from 154 to 146,segments used were  5 from segmentor ID 1105,146,21
+118020,118020AF_7.jpg,changing segment hue by 16 from 154 to 170,segments used were  5 from segmentor ID 1105,170,21
+118020,118020AF_8.jpg,changing segment hue by 16 from 154 to 138,segments used were  5 from segmentor ID 1105,138,21
+118020,118020AF_9.jpg,changing segment hue by 32 from 154 to 186,segments used were  5 from segmentor ID 1105,186,21
+118020,118020AF_10.jpg,changing segment hue by 32 from 154 to 122,segments used were  5 from segmentor ID 1105,122,21
+118020,118020AF_11.jpg,changing segment hue by 64 from 154 to 218,segments used were  5 from segmentor ID 1105,218,21
+118020,118020AF_12.jpg,changing segment hue by 64 from 154 to 90,segments used were  5 from segmentor ID 1105,90,21
+118020,118020AF_13.jpg,changing segment hue by 128 from 154 to 26,segments used were  5 from segmentor ID 1105,26,21
+118020,118020AG_1.jpg,changing segment chroma by +1sd ,segments used were  5 from segmentor ID 1105,154,30
+118020,118020AG_2.jpg,changing segment chroma by -1sd ,segments used were  5 from segmentor ID 1105,154,11
+118020,118020AG_3.jpg,changing segment chroma by +2sd ,segments used were  5 from segmentor ID 1105,154,39
+118020,118020AG_4.jpg,changing segment chroma by -2sd ,segments used were  5 from segmentor ID 1105,154,2
+118035,118035F_1.jpg,changing segment hue by 2 from 150 to 152,segments used were  10 33 35 from segmentor ID 1115,152,60
+118035,118035F_2.jpg,changing segment hue by 2 from 150 to 148,segments used were  10 33 35 from segmentor ID 1115,148,60
+118035,118035F_3.jpg,changing segment hue by 4 from 150 to 154,segments used were  10 33 35 from segmentor ID 1115,154,60
+118035,118035F_4.jpg,changing segment hue by 4 from 150 to 146,segments used were  10 33 35 from segmentor ID 1115,146,60
+118035,118035F_5.jpg,changing segment hue by 8 from 150 to 158,segments used were  10 33 35 from segmentor ID 1115,158,60
+118035,118035F_6.jpg,changing segment hue by 8 from 150 to 142,segments used were  10 33 35 from segmentor ID 1115,142,60
+118035,118035F_7.jpg,changing segment hue by 16 from 150 to 166,segments used were  10 33 35 from segmentor ID 1115,166,60
+118035,118035F_8.jpg,changing segment hue by 16 from 150 to 134,segments used were  10 33 35 from segmentor ID 1115,134,60
+118035,118035F_9.jpg,changing segment hue by 32 from 150 to 182,segments used were  10 33 35 from segmentor ID 1115,182,60
+118035,118035F_10.jpg,changing segment hue by 32 from 150 to 118,segments used were  10 33 35 from segmentor ID 1115,118,60
+118035,118035F_11.jpg,changing segment hue by 64 from 150 to 214,segments used were  10 33 35 from segmentor ID 1115,214,60
+118035,118035F_12.jpg,changing segment hue by 64 from 150 to 86,segments used were  10 33 35 from segmentor ID 1115,86,60
+118035,118035F_13.jpg,changing segment hue by 128 from 150 to 22,segments used were  10 33 35 from segmentor ID 1115,22,60
+118035,118035G_1.jpg,changing segment chroma by +1sd ,segments used were  10 33 35 from segmentor ID 1115,150,71
+118035,118035G_2.jpg,changing segment chroma by -1sd ,segments used were  10 33 35 from segmentor ID 1115,150,48
+118035,118035G_3.jpg,changing segment chroma by +2sd ,segments used were  10 33 35 from segmentor ID 1115,150,82
+118035,118035G_4.jpg,changing segment chroma by -2sd ,segments used were  10 33 35 from segmentor ID 1115,150,37
+118035,118035AF_1.jpg,changing segment hue by 2 from 149 to 151,segments used were  10 33 35 from segmentor ID 1115,151,60
+118035,118035AF_2.jpg,changing segment hue by 2 from 149 to 147,segments used were  10 33 35 from segmentor ID 1115,147,60
+118035,118035AF_3.jpg,changing segment hue by 4 from 149 to 153,segments used were  10 33 35 from segmentor ID 1115,153,60
+118035,118035AF_4.jpg,changing segment hue by 4 from 149 to 145,segments used were  10 33 35 from segmentor ID 1115,145,60
+118035,118035AF_5.jpg,changing segment hue by 8 from 149 to 157,segments used were  10 33 35 from segmentor ID 1115,157,60
+118035,118035AF_6.jpg,changing segment hue by 8 from 149 to 141,segments used were  10 33 35 from segmentor ID 1115,141,60
+118035,118035AF_7.jpg,changing segment hue by 16 from 149 to 165,segments used were  10 33 35 from segmentor ID 1115,165,60
+118035,118035AF_8.jpg,changing segment hue by 16 from 149 to 133,segments used were  10 33 35 from segmentor ID 1115,133,60
+118035,118035AF_9.jpg,changing segment hue by 32 from 149 to 181,segments used were  10 33 35 from segmentor ID 1115,181,60
+118035,118035AF_10.jpg,changing segment hue by 32 from 149 to 117,segments used were  10 33 35 from segmentor ID 1115,117,60
+118035,118035AF_11.jpg,changing segment hue by 64 from 149 to 213,segments used were  10 33 35 from segmentor ID 1115,213,60
+118035,118035AF_12.jpg,changing segment hue by 64 from 149 to 85,segments used were  10 33 35 from segmentor ID 1115,85,60
+118035,118035AF_13.jpg,changing segment hue by 128 from 149 to 21,segments used were  10 33 35 from segmentor ID 1115,21,60
+118035,118035AG_1.jpg,changing segment chroma by +1sd ,segments used were  10 33 35 from segmentor ID 1115,149,71
+118035,118035AG_2.jpg,changing segment chroma by -1sd ,segments used were  10 33 35 from segmentor ID 1115,149,48
+118035,118035AG_3.jpg,changing segment chroma by +2sd ,segments used were  10 33 35 from segmentor ID 1115,149,82
+118035,118035AG_4.jpg,changing segment chroma by -2sd ,segments used were  10 33 35 from segmentor ID 1115,149,37
+140075,140075F_1.jpg,changing segment hue by 2 from 187 to 189,segments used were  8 from segmentor ID 1107,189,47
+140075,140075F_2.jpg,changing segment hue by 2 from 187 to 185,segments used were  8 from segmentor ID 1107,185,47
+140075,140075F_3.jpg,changing segment hue by 4 from 187 to 191,segments used were  8 from segmentor ID 1107,191,47
+140075,140075F_4.jpg,changing segment hue by 4 from 187 to 183,segments used were  8 from segmentor ID 1107,183,47
+140075,140075F_5.jpg,changing segment hue by 8 from 187 to 195,segments used were  8 from segmentor ID 1107,195,47
+140075,140075F_6.jpg,changing segment hue by 8 from 187 to 179,segments used were  8 from segmentor ID 1107,179,47
+140075,140075F_7.jpg,changing segment hue by 16 from 187 to 203,segments used were  8 from segmentor ID 1107,203,47
+140075,140075F_8.jpg,changing segment hue by 16 from 187 to 171,segments used were  8 from segmentor ID 1107,171,47
+140075,140075F_9.jpg,changing segment hue by 32 from 187 to 219,segments used were  8 from segmentor ID 1107,219,47
+140075,140075F_10.jpg,changing segment hue by 32 from 187 to 155,segments used were  8 from segmentor ID 1107,155,47
+140075,140075F_11.jpg,changing segment hue by 64 from 187 to 251,segments used were  8 from segmentor ID 1107,251,47
+140075,140075F_12.jpg,changing segment hue by 64 from 187 to 123,segments used were  8 from segmentor ID 1107,123,47
+140075,140075F_13.jpg,changing segment hue by 128 from 187 to 59,segments used were  8 from segmentor ID 1107,59,47
+140075,140075G_1.jpg,changing segment chroma by +1sd ,segments used were  8 from segmentor ID 1107,187,63
+140075,140075G_2.jpg,changing segment chroma by -1sd ,segments used were  8 from segmentor ID 1107,187,30
+140075,140075G_3.jpg,changing segment chroma by +2sd ,segments used were  8 from segmentor ID 1107,187,80
+140075,140075G_4.jpg,changing segment chroma by -2sd ,segments used were  8 from segmentor ID 1107,187,13
+140075,140075AF_1.jpg,changing segment hue by 2 from 192 to 194,segments used were  8 from segmentor ID 1107,194,32
+140075,140075AF_2.jpg,changing segment hue by 2 from 192 to 190,segments used were  8 from segmentor ID 1107,190,32
+140075,140075AF_3.jpg,changing segment hue by 4 from 192 to 196,segments used were  8 from segmentor ID 1107,196,32
+140075,140075AF_4.jpg,changing segment hue by 4 from 192 to 188,segments used were  8 from segmentor ID 1107,188,32
+140075,140075AF_5.jpg,changing segment hue by 8 from 192 to 200,segments used were  8 from segmentor ID 1107,200,32
+140075,140075AF_6.jpg,changing segment hue by 8 from 192 to 184,segments used were  8 from segmentor ID 1107,184,32
+140075,140075AF_7.jpg,changing segment hue by 16 from 192 to 208,segments used were  8 from segmentor ID 1107,208,32
+140075,140075AF_8.jpg,changing segment hue by 16 from 192 to 176,segments used were  8 from segmentor ID 1107,176,32
+140075,140075AF_9.jpg,changing segment hue by 32 from 192 to 224,segments used were  8 from segmentor ID 1107,224,32
+140075,140075AF_10.jpg,changing segment hue by 32 from 192 to 160,segments used were  8 from segmentor ID 1107,160,32
+140075,140075AF_11.jpg,changing segment hue by 64 from 192 to 0,segments used were  8 from segmentor ID 1107,0,32
+140075,140075AF_12.jpg,changing segment hue by 64 from 192 to 128,segments used were  8 from segmentor ID 1107,128,32
+140075,140075AF_13.jpg,changing segment hue by 128 from 192 to 64,segments used were  8 from segmentor ID 1107,64,32
+140075,140075AG_1.jpg,changing segment chroma by +1sd ,segments used were  8 from segmentor ID 1107,192,47
+140075,140075AG_2.jpg,changing segment chroma by -1sd ,segments used were  8 from segmentor ID 1107,192,16
+140075,140075AG_3.jpg,changing segment chroma by +2sd ,segments used were  8 from segmentor ID 1107,192,62
+140075,140075AG_4.jpg,changing segment chroma by -2sd ,segments used were  8 from segmentor ID 1107,192,1
+151087,151087F_1.jpg,changing segment hue by 2 from 32 to 34,segments used were  2 from segmentor ID 1115,34,9
+151087,151087F_2.jpg,changing segment hue by 2 from 32 to 30,segments used were  2 from segmentor ID 1115,30,9
+151087,151087F_3.jpg,changing segment hue by 4 from 32 to 36,segments used were  2 from segmentor ID 1115,36,9
+151087,151087F_4.jpg,changing segment hue by 4 from 32 to 28,segments used were  2 from segmentor ID 1115,28,9
+151087,151087F_5.jpg,changing segment hue by 8 from 32 to 40,segments used were  2 from segmentor ID 1115,40,9
+151087,151087F_6.jpg,changing segment hue by 8 from 32 to 24,segments used were  2 from segmentor ID 1115,24,9
+151087,151087F_7.jpg,changing segment hue by 16 from 32 to 48,segments used were  2 from segmentor ID 1115,48,9
+151087,151087F_8.jpg,changing segment hue by 16 from 32 to 16,segments used were  2 from segmentor ID 1115,16,9
+151087,151087F_9.jpg,changing segment hue by 32 from 32 to 64,segments used were  2 from segmentor ID 1115,64,9
+151087,151087F_10.jpg,changing segment hue by 32 from 32 to 0,segments used were  2 from segmentor ID 1115,0,9
+151087,151087F_11.jpg,changing segment hue by 64 from 32 to 96,segments used were  2 from segmentor ID 1115,96,9
+151087,151087F_12.jpg,changing segment hue by 64 from 32 to 223,segments used were  2 from segmentor ID 1115,223,9
+151087,151087F_13.jpg,changing segment hue by 128 from 32 to 160,segments used were  2 from segmentor ID 1115,160,9
+151087,151087G_1.jpg,changing segment chroma by +1sd ,segments used were  2 from segmentor ID 1115,32,17
+151087,151087G_2.jpg,changing segment chroma by -1sd ,segments used were  2 from segmentor ID 1115,32,0
+151087,151087G_3.jpg,changing segment chroma by +2sd ,segments used were  2 from segmentor ID 1115,32,26
+151087,151087G_4.jpg,changing segment chroma by -2sd ,segments used were  2 from segmentor ID 1115,32,0
+151087,151087AF_1.jpg,changing segment hue by 2 from 45 to 47,segments used were  2 from segmentor ID 1115,47,9
+151087,151087AF_2.jpg,changing segment hue by 2 from 45 to 43,segments used were  2 from segmentor ID 1115,43,9
+151087,151087AF_3.jpg,changing segment hue by 4 from 45 to 49,segments used were  2 from segmentor ID 1115,49,9
+151087,151087AF_4.jpg,changing segment hue by 4 from 45 to 41,segments used were  2 from segmentor ID 1115,41,9
+151087,151087AF_5.jpg,changing segment hue by 8 from 45 to 53,segments used were  2 from segmentor ID 1115,53,9
+151087,151087AF_6.jpg,changing segment hue by 8 from 45 to 37,segments used were  2 from segmentor ID 1115,37,9
+151087,151087AF_7.jpg,changing segment hue by 16 from 45 to 61,segments used were  2 from segmentor ID 1115,61,9
+151087,151087AF_8.jpg,changing segment hue by 16 from 45 to 29,segments used were  2 from segmentor ID 1115,29,9
+151087,151087AF_9.jpg,changing segment hue by 32 from 45 to 77,segments used were  2 from segmentor ID 1115,77,9
+151087,151087AF_10.jpg,changing segment hue by 32 from 45 to 13,segments used were  2 from segmentor ID 1115,13,9
+151087,151087AF_11.jpg,changing segment hue by 64 from 45 to 109,segments used were  2 from segmentor ID 1115,109,9
+151087,151087AF_12.jpg,changing segment hue by 64 from 45 to 236,segments used were  2 from segmentor ID 1115,236,9
+151087,151087AF_13.jpg,changing segment hue by 128 from 45 to 173,segments used were  2 from segmentor ID 1115,173,9
+151087,151087AG_1.jpg,changing segment chroma by +1sd ,segments used were  2 from segmentor ID 1115,45,18
+151087,151087AG_2.jpg,changing segment chroma by -1sd ,segments used were  2 from segmentor ID 1115,45,0
+151087,151087AG_3.jpg,changing segment chroma by +2sd ,segments used were  2 from segmentor ID 1115,45,27
+151087,151087AG_4.jpg,changing segment chroma by -2sd ,segments used were  2 from segmentor ID 1115,45,0
+153093,153093AF_1.jpg,changing segment hue by 2 from 192 to 194,segments used were  41 42 from segmentor ID 1108,194,46
+153093,153093AF_2.jpg,changing segment hue by 2 from 192 to 190,segments used were  41 42 from segmentor ID 1108,190,46
+153093,153093AF_3.jpg,changing segment hue by 4 from 192 to 196,segments used were  41 42 from segmentor ID 1108,196,46
+153093,153093AF_4.jpg,changing segment hue by 4 from 192 to 188,segments used were  41 42 from segmentor ID 1108,188,46
+153093,153093AF_5.jpg,changing segment hue by 8 from 192 to 200,segments used were  41 42 from segmentor ID 1108,200,46
+153093,153093AF_6.jpg,changing segment hue by 8 from 192 to 184,segments used were  41 42 from segmentor ID 1108,184,46
+153093,153093AF_7.jpg,changing segment hue by 16 from 192 to 208,segments used were  41 42 from segmentor ID 1108,208,46
+153093,153093AF_8.jpg,changing segment hue by 16 from 192 to 176,segments used were  41 42 from segmentor ID 1108,176,46
+153093,153093AF_9.jpg,changing segment hue by 32 from 192 to 224,segments used were  41 42 from segmentor ID 1108,224,46
+153093,153093AF_10.jpg,changing segment hue by 32 from 192 to 160,segments used were  41 42 from segmentor ID 1108,160,46
+153093,153093AF_11.jpg,changing segment hue by 64 from 192 to 0,segments used were  41 42 from segmentor ID 1108,0,46
+153093,153093AF_12.jpg,changing segment hue by 64 from 192 to 128,segments used were  41 42 from segmentor ID 1108,128,46
+153093,153093AF_13.jpg,changing segment hue by 128 from 192 to 64,segments used were  41 42 from segmentor ID 1108,64,46
+153093,153093AG_1.jpg,changing segment chroma by +1sd ,segments used were  41 42 from segmentor ID 1108,192,58
+153093,153093AG_2.jpg,changing segment chroma by -1sd ,segments used were  41 42 from segmentor ID 1108,192,33
+153093,153093AG_3.jpg,changing segment chroma by +2sd ,segments used were  41 42 from segmentor ID 1108,192,70
+153093,153093AG_4.jpg,changing segment chroma by -2sd ,segments used were  41 42 from segmentor ID 1108,192,21
+153093,153093F_1.jpg,changing segment hue by 2 from 192 to 194,segments used were  41 42 from segmentor ID 1108,194,47
+153093,153093F_2.jpg,changing segment hue by 2 from 192 to 190,segments used were  41 42 from segmentor ID 1108,190,47
+153093,153093F_3.jpg,changing segment hue by 4 from 192 to 196,segments used were  41 42 from segmentor ID 1108,196,47
+153093,153093F_4.jpg,changing segment hue by 4 from 192 to 188,segments used were  41 42 from segmentor ID 1108,188,47
+153093,153093F_5.jpg,changing segment hue by 8 from 192 to 200,segments used were  41 42 from segmentor ID 1108,200,47
+153093,153093F_6.jpg,changing segment hue by 8 from 192 to 184,segments used were  41 42 from segmentor ID 1108,184,47
+153093,153093F_7.jpg,changing segment hue by 16 from 192 to 208,segments used were  41 42 from segmentor ID 1108,208,47
+153093,153093F_8.jpg,changing segment hue by 16 from 192 to 176,segments used were  41 42 from segmentor ID 1108,176,47
+153093,153093F_9.jpg,changing segment hue by 32 from 192 to 224,segments used were  41 42 from segmentor ID 1108,224,47
+153093,153093F_10.jpg,changing segment hue by 32 from 192 to 160,segments used were  41 42 from segmentor ID 1108,160,47
+153093,153093F_11.jpg,changing segment hue by 64 from 192 to 0,segments used were  41 42 from segmentor ID 1108,0,47
+153093,153093F_12.jpg,changing segment hue by 64 from 192 to 128,segments used were  41 42 from segmentor ID 1108,128,47
+153093,153093F_13.jpg,changing segment hue by 128 from 192 to 64,segments used were  41 42 from segmentor ID 1108,64,47
+153093,153093G_1.jpg,changing segment chroma by +1sd ,segments used were  41 42 from segmentor ID 1108,192,64
+153093,153093G_2.jpg,changing segment chroma by -1sd ,segments used were  41 42 from segmentor ID 1108,192,29
+153093,153093G_3.jpg,changing segment chroma by +2sd ,segments used were  41 42 from segmentor ID 1108,192,81
+153093,153093G_4.jpg,changing segment chroma by -2sd ,segments used were  41 42 from segmentor ID 1108,192,12
+187029,187029F_1.jpg,changing segment hue by 2 from 152 to 154,segments used were  9 8 10 11 12 from segmentor ID 1103,154,66
+187029,187029F_2.jpg,changing segment hue by 2 from 152 to 150,segments used were  9 8 10 11 12 from segmentor ID 1103,150,66
+187029,187029F_3.jpg,changing segment hue by 4 from 152 to 156,segments used were  9 8 10 11 12 from segmentor ID 1103,156,66
+187029,187029F_4.jpg,changing segment hue by 4 from 152 to 148,segments used were  9 8 10 11 12 from segmentor ID 1103,148,66
+187029,187029F_5.jpg,changing segment hue by 8 from 152 to 160,segments used were  9 8 10 11 12 from segmentor ID 1103,160,66
+187029,187029F_6.jpg,changing segment hue by 8 from 152 to 144,segments used were  9 8 10 11 12 from segmentor ID 1103,144,66
+187029,187029F_7.jpg,changing segment hue by 16 from 152 to 168,segments used were  9 8 10 11 12 from segmentor ID 1103,168,66
+187029,187029F_8.jpg,changing segment hue by 16 from 152 to 136,segments used were  9 8 10 11 12 from segmentor ID 1103,136,66
+187029,187029F_9.jpg,changing segment hue by 32 from 152 to 184,segments used were  9 8 10 11 12 from segmentor ID 1103,184,66
+187029,187029F_10.jpg,changing segment hue by 32 from 152 to 120,segments used were  9 8 10 11 12 from segmentor ID 1103,120,66
+187029,187029F_11.jpg,changing segment hue by 64 from 152 to 216,segments used were  9 8 10 11 12 from segmentor ID 1103,216,66
+187029,187029F_12.jpg,changing segment hue by 64 from 152 to 88,segments used were  9 8 10 11 12 from segmentor ID 1103,88,66
+187029,187029F_13.jpg,changing segment hue by 128 from 152 to 24,segments used were  9 8 10 11 12 from segmentor ID 1103,24,66
+187029,187029G_1.jpg,changing segment chroma by +1sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,152,77
+187029,187029G_2.jpg,changing segment chroma by -1sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,152,54
+187029,187029G_3.jpg,changing segment chroma by +2sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,152,89
+187029,187029G_4.jpg,changing segment chroma by -2sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,152,42
+187029,187029AF_1.jpg,changing segment hue by 2 from 150 to 152,segments used were  9 8 10 11 12 from segmentor ID 1103,152,64
+187029,187029AF_2.jpg,changing segment hue by 2 from 150 to 148,segments used were  9 8 10 11 12 from segmentor ID 1103,148,64
+187029,187029AF_3.jpg,changing segment hue by 4 from 150 to 154,segments used were  9 8 10 11 12 from segmentor ID 1103,154,64
+187029,187029AF_4.jpg,changing segment hue by 4 from 150 to 146,segments used were  9 8 10 11 12 from segmentor ID 1103,146,64
+187029,187029AF_5.jpg,changing segment hue by 8 from 150 to 158,segments used were  9 8 10 11 12 from segmentor ID 1103,158,64
+187029,187029AF_6.jpg,changing segment hue by 8 from 150 to 142,segments used were  9 8 10 11 12 from segmentor ID 1103,142,64
+187029,187029AF_7.jpg,changing segment hue by 16 from 150 to 166,segments used were  9 8 10 11 12 from segmentor ID 1103,166,64
+187029,187029AF_8.jpg,changing segment hue by 16 from 150 to 134,segments used were  9 8 10 11 12 from segmentor ID 1103,134,64
+187029,187029AF_9.jpg,changing segment hue by 32 from 150 to 182,segments used were  9 8 10 11 12 from segmentor ID 1103,182,64
+187029,187029AF_10.jpg,changing segment hue by 32 from 150 to 118,segments used were  9 8 10 11 12 from segmentor ID 1103,118,64
+187029,187029AF_11.jpg,changing segment hue by 64 from 150 to 214,segments used were  9 8 10 11 12 from segmentor ID 1103,214,64
+187029,187029AF_12.jpg,changing segment hue by 64 from 150 to 86,segments used were  9 8 10 11 12 from segmentor ID 1103,86,64
+187029,187029AF_13.jpg,changing segment hue by 128 from 150 to 22,segments used were  9 8 10 11 12 from segmentor ID 1103,22,64
+187029,187029AG_1.jpg,changing segment chroma by +1sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,150,75
+187029,187029AG_2.jpg,changing segment chroma by -1sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,150,52
+187029,187029AG_3.jpg,changing segment chroma by +2sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,150,87
+187029,187029AG_4.jpg,changing segment chroma by -2sd ,segments used were  9 8 10 11 12 from segmentor ID 1103,150,40
+198023,198023F_1.jpg,changing segment hue by 2 from 72 to 74,segments used were  12 16 from segmentor ID 1105,74,45
+198023,198023F_2.jpg,changing segment hue by 2 from 72 to 70,segments used were  12 16 from segmentor ID 1105,70,45
+198023,198023F_3.jpg,changing segment hue by 4 from 72 to 76,segments used were  12 16 from segmentor ID 1105,76,45
+198023,198023F_4.jpg,changing segment hue by 4 from 72 to 68,segments used were  12 16 from segmentor ID 1105,68,45
+198023,198023F_5.jpg,changing segment hue by 8 from 72 to 80,segments used were  12 16 from segmentor ID 1105,80,45
+198023,198023F_6.jpg,changing segment hue by 8 from 72 to 64,segments used were  12 16 from segmentor ID 1105,64,45
+198023,198023F_7.jpg,changing segment hue by 16 from 72 to 88,segments used were  12 16 from segmentor ID 1105,88,45
+198023,198023F_8.jpg,changing segment hue by 16 from 72 to 56,segments used were  12 16 from segmentor ID 1105,56,45
+198023,198023F_9.jpg,changing segment hue by 32 from 72 to 104,segments used were  12 16 from segmentor ID 1105,104,45
+198023,198023F_10.jpg,changing segment hue by 32 from 72 to 40,segments used were  12 16 from segmentor ID 1105,40,45
+198023,198023F_11.jpg,changing segment hue by 64 from 72 to 136,segments used were  12 16 from segmentor ID 1105,136,45
+198023,198023F_12.jpg,changing segment hue by 64 from 72 to 8,segments used were  12 16 from segmentor ID 1105,8,45
+198023,198023F_13.jpg,changing segment hue by 128 from 72 to 200,segments used were  12 16 from segmentor ID 1105,200,45
+198023,198023G_1.jpg,changing segment chroma by +1sd ,segments used were  12 16 from segmentor ID 1105,72,62
+198023,198023G_2.jpg,changing segment chroma by -1sd ,segments used were  12 16 from segmentor ID 1105,72,27
+198023,198023G_3.jpg,changing segment chroma by +2sd ,segments used were  12 16 from segmentor ID 1105,72,79
+198023,198023G_4.jpg,changing segment chroma by -2sd ,segments used were  12 16 from segmentor ID 1105,72,10
+198023,198023AF_1.jpg,changing segment hue by 2 from 76 to 78,segments used were  12 16 from segmentor ID 1105,78,61
+198023,198023AF_2.jpg,changing segment hue by 2 from 76 to 74,segments used were  12 16 from segmentor ID 1105,74,61
+198023,198023AF_3.jpg,changing segment hue by 4 from 76 to 80,segments used were  12 16 from segmentor ID 1105,80,61
+198023,198023AF_4.jpg,changing segment hue by 4 from 76 to 72,segments used were  12 16 from segmentor ID 1105,72,61
+198023,198023AF_5.jpg,changing segment hue by 8 from 76 to 84,segments used were  12 16 from segmentor ID 1105,84,61
+198023,198023AF_6.jpg,changing segment hue by 8 from 76 to 68,segments used were  12 16 from segmentor ID 1105,68,61
+198023,198023AF_7.jpg,changing segment hue by 16 from 76 to 92,segments used were  12 16 from segmentor ID 1105,92,61
+198023,198023AF_8.jpg,changing segment hue by 16 from 76 to 60,segments used were  12 16 from segmentor ID 1105,60,61
+198023,198023AF_9.jpg,changing segment hue by 32 from 76 to 108,segments used were  12 16 from segmentor ID 1105,108,61
+198023,198023AF_10.jpg,changing segment hue by 32 from 76 to 44,segments used were  12 16 from segmentor ID 1105,44,61
+198023,198023AF_11.jpg,changing segment hue by 64 from 76 to 140,segments used were  12 16 from segmentor ID 1105,140,61
+198023,198023AF_12.jpg,changing segment hue by 64 from 76 to 12,segments used were  12 16 from segmentor ID 1105,12,61
+198023,198023AF_13.jpg,changing segment hue by 128 from 76 to 204,segments used were  12 16 from segmentor ID 1105,204,61
+198023,198023AG_1.jpg,changing segment chroma by +1sd ,segments used were  12 16 from segmentor ID 1105,76,77
+198023,198023AG_2.jpg,changing segment chroma by -1sd ,segments used were  12 16 from segmentor ID 1105,76,44
+198023,198023AG_3.jpg,changing segment chroma by +2sd ,segments used were  12 16 from segmentor ID 1105,76,94
+198023,198023AG_4.jpg,changing segment chroma by -2sd ,segments used were  12 16 from segmentor ID 1105,76,27
+239096,239096F_1.jpg,changing segment hue by 2 from 132 to 134,segments used were  1 6 9 11 14 from segmentor ID 1121,134,59
+239096,239096F_2.jpg,changing segment hue by 2 from 132 to 130,segments used were  1 6 9 11 14 from segmentor ID 1121,130,59
+239096,239096F_3.jpg,changing segment hue by 4 from 132 to 136,segments used were  1 6 9 11 14 from segmentor ID 1121,136,59
+239096,239096F_4.jpg,changing segment hue by 4 from 132 to 128,segments used were  1 6 9 11 14 from segmentor ID 1121,128,59
+239096,239096F_5.jpg,changing segment hue by 8 from 132 to 140,segments used were  1 6 9 11 14 from segmentor ID 1121,140,59
+239096,239096F_6.jpg,changing segment hue by 8 from 132 to 124,segments used were  1 6 9 11 14 from segmentor ID 1121,124,59
+239096,239096F_7.jpg,changing segment hue by 16 from 132 to 148,segments used were  1 6 9 11 14 from segmentor ID 1121,148,59
+239096,239096F_8.jpg,changing segment hue by 16 from 132 to 116,segments used were  1 6 9 11 14 from segmentor ID 1121,116,59
+239096,239096F_9.jpg,changing segment hue by 32 from 132 to 164,segments used were  1 6 9 11 14 from segmentor ID 1121,164,59
+239096,239096F_10.jpg,changing segment hue by 32 from 132 to 100,segments used were  1 6 9 11 14 from segmentor ID 1121,100,59
+239096,239096F_11.jpg,changing segment hue by 64 from 132 to 196,segments used were  1 6 9 11 14 from segmentor ID 1121,196,59
+239096,239096F_12.jpg,changing segment hue by 64 from 132 to 68,segments used were  1 6 9 11 14 from segmentor ID 1121,68,59
+239096,239096F_13.jpg,changing segment hue by 128 from 132 to 4,segments used were  1 6 9 11 14 from segmentor ID 1121,4,59
+239096,239096G_1.jpg,changing segment chroma by +1sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,132,77
+239096,239096G_2.jpg,changing segment chroma by -1sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,132,40
+239096,239096G_3.jpg,changing segment chroma by +2sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,132,96
+239096,239096G_4.jpg,changing segment chroma by -2sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,132,21
+239096,239096AF_1.jpg,changing segment hue by 2 from 128 to 130,segments used were  1 6 9 11 14 from segmentor ID 1121,130,55
+239096,239096AF_2.jpg,changing segment hue by 2 from 128 to 126,segments used were  1 6 9 11 14 from segmentor ID 1121,126,55
+239096,239096AF_3.jpg,changing segment hue by 4 from 128 to 132,segments used were  1 6 9 11 14 from segmentor ID 1121,132,55
+239096,239096AF_4.jpg,changing segment hue by 4 from 128 to 124,segments used were  1 6 9 11 14 from segmentor ID 1121,124,55
+239096,239096AF_5.jpg,changing segment hue by 8 from 128 to 136,segments used were  1 6 9 11 14 from segmentor ID 1121,136,55
+239096,239096AF_6.jpg,changing segment hue by 8 from 128 to 120,segments used were  1 6 9 11 14 from segmentor ID 1121,120,55
+239096,239096AF_7.jpg,changing segment hue by 16 from 128 to 144,segments used were  1 6 9 11 14 from segmentor ID 1121,144,55
+239096,239096AF_8.jpg,changing segment hue by 16 from 128 to 112,segments used were  1 6 9 11 14 from segmentor ID 1121,112,55
+239096,239096AF_9.jpg,changing segment hue by 32 from 128 to 160,segments used were  1 6 9 11 14 from segmentor ID 1121,160,55
+239096,239096AF_10.jpg,changing segment hue by 32 from 128 to 96,segments used were  1 6 9 11 14 from segmentor ID 1121,96,55
+239096,239096AF_11.jpg,changing segment hue by 64 from 128 to 192,segments used were  1 6 9 11 14 from segmentor ID 1121,192,55
+239096,239096AF_12.jpg,changing segment hue by 64 from 128 to 64,segments used were  1 6 9 11 14 from segmentor ID 1121,64,55
+239096,239096AF_13.jpg,changing segment hue by 128 from 128 to 0,segments used were  1 6 9 11 14 from segmentor ID 1121,0,55
+239096,239096AG_1.jpg,changing segment chroma by +1sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,128,72
+239096,239096AG_2.jpg,changing segment chroma by -1sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,128,37
+239096,239096AG_3.jpg,changing segment chroma by +2sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,128,90
+239096,239096AG_4.jpg,changing segment chroma by -2sd ,segments used were  1 6 9 11 14 from segmentor ID 1121,128,19
+242078,242078F_1.jpg,changing segment hue by 2 from 192 to 194,segments used were  6 11 17 26 29 32 from segmentor ID 1106,194,74
+242078,242078F_2.jpg,changing segment hue by 2 from 192 to 190,segments used were  6 11 17 26 29 32 from segmentor ID 1106,190,74
+242078,242078F_3.jpg,changing segment hue by 4 from 192 to 196,segments used were  6 11 17 26 29 32 from segmentor ID 1106,196,74
+242078,242078F_4.jpg,changing segment hue by 4 from 192 to 188,segments used were  6 11 17 26 29 32 from segmentor ID 1106,188,74
+242078,242078F_5.jpg,changing segment hue by 8 from 192 to 200,segments used were  6 11 17 26 29 32 from segmentor ID 1106,200,74
+242078,242078F_6.jpg,changing segment hue by 8 from 192 to 184,segments used were  6 11 17 26 29 32 from segmentor ID 1106,184,74
+242078,242078F_7.jpg,changing segment hue by 16 from 192 to 208,segments used were  6 11 17 26 29 32 from segmentor ID 1106,208,74
+242078,242078F_8.jpg,changing segment hue by 16 from 192 to 176,segments used were  6 11 17 26 29 32 from segmentor ID 1106,176,74
+242078,242078F_9.jpg,changing segment hue by 32 from 192 to 224,segments used were  6 11 17 26 29 32 from segmentor ID 1106,224,74
+242078,242078F_10.jpg,changing segment hue by 32 from 192 to 160,segments used were  6 11 17 26 29 32 from segmentor ID 1106,160,74
+242078,242078F_11.jpg,changing segment hue by 64 from 192 to 0,segments used were  6 11 17 26 29 32 from segmentor ID 1106,0,74
+242078,242078F_12.jpg,changing segment hue by 64 from 192 to 128,segments used were  6 11 17 26 29 32 from segmentor ID 1106,128,74
+242078,242078F_13.jpg,changing segment hue by 128 from 192 to 64,segments used were  6 11 17 26 29 32 from segmentor ID 1106,64,74
+242078,242078G_1.jpg,changing segment chroma by +1sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,192,98
+242078,242078G_2.jpg,changing segment chroma by -1sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,192,49
+242078,242078G_3.jpg,changing segment chroma by +2sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,192,123
+242078,242078G_4.jpg,changing segment chroma by -2sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,192,24
+242078,242078AF_1.jpg,changing segment hue by 2 from 197 to 199,segments used were  6 11 17 26 29 32 from segmentor ID 1106,199,46
+242078,242078AF_2.jpg,changing segment hue by 2 from 197 to 195,segments used were  6 11 17 26 29 32 from segmentor ID 1106,195,46
+242078,242078AF_3.jpg,changing segment hue by 4 from 197 to 201,segments used were  6 11 17 26 29 32 from segmentor ID 1106,201,46
+242078,242078AF_4.jpg,changing segment hue by 4 from 197 to 193,segments used were  6 11 17 26 29 32 from segmentor ID 1106,193,46
+242078,242078AF_5.jpg,changing segment hue by 8 from 197 to 205,segments used were  6 11 17 26 29 32 from segmentor ID 1106,205,46
+242078,242078AF_6.jpg,changing segment hue by 8 from 197 to 189,segments used were  6 11 17 26 29 32 from segmentor ID 1106,189,46
+242078,242078AF_7.jpg,changing segment hue by 16 from 197 to 213,segments used were  6 11 17 26 29 32 from segmentor ID 1106,213,46
+242078,242078AF_8.jpg,changing segment hue by 16 from 197 to 181,segments used were  6 11 17 26 29 32 from segmentor ID 1106,181,46
+242078,242078AF_9.jpg,changing segment hue by 32 from 197 to 229,segments used were  6 11 17 26 29 32 from segmentor ID 1106,229,46
+242078,242078AF_10.jpg,changing segment hue by 32 from 197 to 165,segments used were  6 11 17 26 29 32 from segmentor ID 1106,165,46
+242078,242078AF_11.jpg,changing segment hue by 64 from 197 to 5,segments used were  6 11 17 26 29 32 from segmentor ID 1106,5,46
+242078,242078AF_12.jpg,changing segment hue by 64 from 197 to 133,segments used were  6 11 17 26 29 32 from segmentor ID 1106,133,46
+242078,242078AF_13.jpg,changing segment hue by 128 from 197 to 69,segments used were  6 11 17 26 29 32 from segmentor ID 1106,69,46
+242078,242078AG_1.jpg,changing segment chroma by +1sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,197,60
+242078,242078AG_2.jpg,changing segment chroma by -1sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,197,31
+242078,242078AG_3.jpg,changing segment chroma by +2sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,197,75
+242078,242078AG_4.jpg,changing segment chroma by -2sd ,segments used were  6 11 17 26 29 32 from segmentor ID 1106,197,16
+323016,323016F_1.jpg,changing segment hue by 2 from 183 to 185,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,185,34
+323016,323016F_2.jpg,changing segment hue by 2 from 183 to 181,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,181,34
+323016,323016F_3.jpg,changing segment hue by 4 from 183 to 187,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,187,34
+323016,323016F_4.jpg,changing segment hue by 4 from 183 to 179,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,179,34
+323016,323016F_5.jpg,changing segment hue by 8 from 183 to 191,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,191,34
+323016,323016F_6.jpg,changing segment hue by 8 from 183 to 175,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,175,34
+323016,323016F_7.jpg,changing segment hue by 16 from 183 to 199,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,199,34
+323016,323016F_8.jpg,changing segment hue by 16 from 183 to 167,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,167,34
+323016,323016F_9.jpg,changing segment hue by 32 from 183 to 215,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,215,34
+323016,323016F_10.jpg,changing segment hue by 32 from 183 to 151,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,151,34
+323016,323016F_11.jpg,changing segment hue by 64 from 183 to 247,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,247,34
+323016,323016F_12.jpg,changing segment hue by 64 from 183 to 119,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,119,34
+323016,323016F_13.jpg,changing segment hue by 128 from 183 to 55,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,55,34
+323016,323016G_1.jpg,changing segment chroma by +1sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,183,44
+323016,323016G_2.jpg,changing segment chroma by -1sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,183,23
+323016,323016G_3.jpg,changing segment chroma by +2sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,183,54
+323016,323016G_4.jpg,changing segment chroma by -2sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,183,13
+323016,323016AF_1.jpg,changing segment hue by 2 from 182 to 184,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,184,30
+323016,323016AF_2.jpg,changing segment hue by 2 from 182 to 180,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,180,30
+323016,323016AF_3.jpg,changing segment hue by 4 from 182 to 186,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,186,30
+323016,323016AF_4.jpg,changing segment hue by 4 from 182 to 178,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,178,30
+323016,323016AF_5.jpg,changing segment hue by 8 from 182 to 190,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,190,30
+323016,323016AF_6.jpg,changing segment hue by 8 from 182 to 174,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,174,30
+323016,323016AF_7.jpg,changing segment hue by 16 from 182 to 198,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,198,30
+323016,323016AF_8.jpg,changing segment hue by 16 from 182 to 166,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,166,30
+323016,323016AF_9.jpg,changing segment hue by 32 from 182 to 214,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,214,30
+323016,323016AF_10.jpg,changing segment hue by 32 from 182 to 150,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,150,30
+323016,323016AF_11.jpg,changing segment hue by 64 from 182 to 246,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,246,30
+323016,323016AF_12.jpg,changing segment hue by 64 from 182 to 118,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,118,30
+323016,323016AF_13.jpg,changing segment hue by 128 from 182 to 54,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,54,30
+323016,323016AG_1.jpg,changing segment chroma by +1sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,182,39
+323016,323016AG_2.jpg,changing segment chroma by -1sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,182,20
+323016,323016AG_3.jpg,changing segment chroma by +2sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,182,48
+323016,323016AG_4.jpg,changing segment chroma by -2sd ,segments used were  4 10 12 52 53 54 61 31 3 9 11 from segmentor ID 1113,182,11
+376001,376001F_1.jpg,changing segment hue by 2 from 168 to 170,segments used were  36 76 83 from segmentor ID 1113,170,18
+376001,376001F_2.jpg,changing segment hue by 2 from 168 to 166,segments used were  36 76 83 from segmentor ID 1113,166,18
+376001,376001F_3.jpg,changing segment hue by 4 from 168 to 172,segments used were  36 76 83 from segmentor ID 1113,172,18
+376001,376001F_4.jpg,changing segment hue by 4 from 168 to 164,segments used were  36 76 83 from segmentor ID 1113,164,18
+376001,376001F_5.jpg,changing segment hue by 8 from 168 to 176,segments used were  36 76 83 from segmentor ID 1113,176,18
+376001,376001F_6.jpg,changing segment hue by 8 from 168 to 160,segments used were  36 76 83 from segmentor ID 1113,160,18
+376001,376001F_7.jpg,changing segment hue by 16 from 168 to 184,segments used were  36 76 83 from segmentor ID 1113,184,18
+376001,376001F_8.jpg,changing segment hue by 16 from 168 to 152,segments used were  36 76 83 from segmentor ID 1113,152,18
+376001,376001F_9.jpg,changing segment hue by 32 from 168 to 200,segments used were  36 76 83 from segmentor ID 1113,200,18
+376001,376001F_10.jpg,changing segment hue by 32 from 168 to 136,segments used were  36 76 83 from segmentor ID 1113,136,18
+376001,376001F_11.jpg,changing segment hue by 64 from 168 to 232,segments used were  36 76 83 from segmentor ID 1113,232,18
+376001,376001F_12.jpg,changing segment hue by 64 from 168 to 104,segments used were  36 76 83 from segmentor ID 1113,104,18
+376001,376001F_13.jpg,changing segment hue by 128 from 168 to 40,segments used were  36 76 83 from segmentor ID 1113,40,18
+376001,376001G_1.jpg,changing segment chroma by +1sd ,segments used were  36 76 83 from segmentor ID 1113,168,33
+376001,376001G_2.jpg,changing segment chroma by -1sd ,segments used were  36 76 83 from segmentor ID 1113,168,2
+376001,376001G_3.jpg,changing segment chroma by +2sd ,segments used were  36 76 83 from segmentor ID 1113,168,48
+376001,376001G_4.jpg,changing segment chroma by -2sd ,segments used were  36 76 83 from segmentor ID 1113,168,0
+376001,376001AF_1.jpg,changing segment hue by 2 from 64 to 66,segments used were  36 76 83 from segmentor ID 1113,66,13
+376001,376001AF_2.jpg,changing segment hue by 2 from 64 to 62,segments used were  36 76 83 from segmentor ID 1113,62,13
+376001,376001AF_3.jpg,changing segment hue by 4 from 64 to 68,segments used were  36 76 83 from segmentor ID 1113,68,13
+376001,376001AF_4.jpg,changing segment hue by 4 from 64 to 60,segments used were  36 76 83 from segmentor ID 1113,60,13
+376001,376001AF_5.jpg,changing segment hue by 8 from 64 to 72,segments used were  36 76 83 from segmentor ID 1113,72,13
+376001,376001AF_6.jpg,changing segment hue by 8 from 64 to 56,segments used were  36 76 83 from segmentor ID 1113,56,13
+376001,376001AF_7.jpg,changing segment hue by 16 from 64 to 80,segments used were  36 76 83 from segmentor ID 1113,80,13
+376001,376001AF_8.jpg,changing segment hue by 16 from 64 to 48,segments used were  36 76 83 from segmentor ID 1113,48,13
+376001,376001AF_9.jpg,changing segment hue by 32 from 64 to 96,segments used were  36 76 83 from segmentor ID 1113,96,13
+376001,376001AF_10.jpg,changing segment hue by 32 from 64 to 32,segments used were  36 76 83 from segmentor ID 1113,32,13
+376001,376001AF_11.jpg,changing segment hue by 64 from 64 to 128,segments used were  36 76 83 from segmentor ID 1113,128,13
+376001,376001AF_12.jpg,changing segment hue by 64 from 64 to 0,segments used were  36 76 83 from segmentor ID 1113,0,13
+376001,376001AF_13.jpg,changing segment hue by 128 from 64 to 192,segments used were  36 76 83 from segmentor ID 1113,192,13
+376001,376001AG_1.jpg,changing segment chroma by +1sd ,segments used were  36 76 83 from segmentor ID 1113,64,19
+376001,376001AG_2.jpg,changing segment chroma by -1sd ,segments used were  36 76 83 from segmentor ID 1113,64,6
+376001,376001AG_3.jpg,changing segment chroma by +2sd ,segments used were  36 76 83 from segmentor ID 1113,64,26
+376001,376001AG_4.jpg,changing segment chroma by -2sd ,segments used were  36 76 83 from segmentor ID 1113,64,0
+376001,376001O_1.jpg,Colourised by DeOldify,
+323016,323016O_1.jpg,Colourised by DeOldify,
+024004,024004O_1.jpg,Colourised by DeOldify,
+118020,118020O_1.jpg,Colourised by DeOldify,
+153093,153093O_1.jpg,Colourised by DeOldify,
+065019,065019O_1.jpg,Colourised by DeOldify,
+025098,025098O_1.jpg,Colourised by DeOldify,
+239096,239096O_1.jpg,Colourised by DeOldify,
+022090,022090O_1.jpg,Colourised by DeOldify,
+242078,242078O_1.jpg,Colourised by DeOldify,
+015004,015004O_1.jpg,Colourised by DeOldify,
+151087,151087O_1.jpg,Colourised by DeOldify,
+056028,056028O_1.jpg,Colourised by DeOldify,
+198023,198023O_1.jpg,Colourised by DeOldify,
+022093,022093O_1.jpg,Colourised by DeOldify,
+046076,046076O_1.jpg,Colourised by DeOldify,
+187029,187029O_1.jpg,Colourised by DeOldify,
+140075,140075O_1.jpg,Colourised by DeOldify,
+078019,078019O_1.jpg,Colourised by DeOldify,
+118035,118035O_1.jpg,Colourised by DeOldify,
+153093,153093L_1.jpg,Colourised by Larsson,
+065019,065019L_1.jpg,Colourised by Larsson,
+025098,025098L_1.jpg,Colourised by Larsson,
+022090,022090L_1.jpg,Colourised by Larsson,
+239096,239096L_1.jpg,Colourised by Larsson,
+376001,376001L_1.jpg,Colourised by Larsson,
+323016,323016L_1.jpg,Colourised by Larsson,
+118020,118020L_1.jpg,Colourised by Larsson,
+024004,024004L_1.jpg,Colourised by Larsson,
+022093,022093L_1.jpg,Colourised by Larsson,
+046076,046076L_1.jpg,Colourised by Larsson,
+187029,187029L_1.jpg,Colourised by Larsson,
+118035,118035L_1.jpg,Colourised by Larsson,
+078019,078019L_1.jpg,Colourised by Larsson,
+140075,140075L_1.jpg,Colourised by Larsson,
+242078,242078L_1.jpg,Colourised by Larsson,
+151087,151087L_1.jpg,Colourised by Larsson,
+015004,015004L_1.jpg,Colourised by Larsson,
+056028,056028L_1.jpg,Colourised by Larsson,
+198023,198023L_1.jpg,Colourised by Larsson,
+323016,323016I_1.jpg,Colourised by Iizuka,
+024004,024004I_1.jpg,Colourised by Iizuka,
+118020,118020I_1.jpg,Colourised by Iizuka,
+376001,376001I_1.jpg,Colourised by Iizuka,
+022090,022090I_1.jpg,Colourised by Iizuka,
+239096,239096I_1.jpg,Colourised by Iizuka,
+025098,025098I_1.jpg,Colourised by Iizuka,
+065019,065019I_1.jpg,Colourised by Iizuka,
+153093,153093I_1.jpg,Colourised by Iizuka,
+056028,056028I_1.jpg,Colourised by Iizuka,
+198023,198023I_1.jpg,Colourised by Iizuka,
+151087,151087I_1.jpg,Colourised by Iizuka,
+015004,015004I_1.jpg,Colourised by Iizuka,
+242078,242078I_1.jpg,Colourised by Iizuka,
+140075,140075I_1.jpg,Colourised by Iizuka,
+078019,078019I_1.jpg,Colourised by Iizuka,
+118035,118035I_1.jpg,Colourised by Iizuka,
+046076,046076I_1.jpg,Colourised by Iizuka,
+022093,022093I_1.jpg,Colourised by Iizuka,
+187029,187029I_1.jpg,Colourised by Iizuka,
+140075,140075Z_1.jpg,Colourised by Zhang1,
+078019,078019Z_1.jpg,Colourised by Zhang1,
+118035,118035Z_1.jpg,Colourised by Zhang1,
+022093,022093Z_1.jpg,Colourised by Zhang1,
+046076,046076Z_1.jpg,Colourised by Zhang1,
+187029,187029Z_1.jpg,Colourised by Zhang1,
+056028,056028Z_1.jpg,Colourised by Zhang1,
+198023,198023Z_1.jpg,Colourised by Zhang1,
+242078,242078Z_1.jpg,Colourised by Zhang1,
+151087,151087Z_1.jpg,Colourised by Zhang1,
+015004,015004Z_1.jpg,Colourised by Zhang1,
+025098,025098Z_1.jpg,Colourised by Zhang1,
+022090,022090Z_1.jpg,Colourised by Zhang1,
+239096,239096Z_1.jpg,Colourised by Zhang1,
+153093,153093Z_1.jpg,Colourised by Zhang1,
+065019,065019Z_1.jpg,Colourised by Zhang1,
+323016,323016Z_1.jpg,Colourised by Zhang1,
+024004,024004Z_1.jpg,Colourised by Zhang1,
+118020,118020Z_1.jpg,Colourised by Zhang1,
+376001,376001Z_1.jpg,Colourised by Zhang1,
+140075,140075Z_2.jpg,Colourised by Zhang2,
+078019,078019Z_2.jpg,Colourised by Zhang2,
+118035,118035Z_2.jpg,Colourised by Zhang2,
+187029,187029Z_2.jpg,Colourised by Zhang2,
+022093,022093Z_2.jpg,Colourised by Zhang2,
+046076,046076Z_2.jpg,Colourised by Zhang2,
+198023,198023Z_2.jpg,Colourised by Zhang2,
+056028,056028Z_2.jpg,Colourised by Zhang2,
+242078,242078Z_2.jpg,Colourised by Zhang2,
+151087,151087Z_2.jpg,Colourised by Zhang2,
+015004,015004Z_2.jpg,Colourised by Zhang2,
+025098,025098Z_2.jpg,Colourised by Zhang2,
+022090,022090Z_2.jpg,Colourised by Zhang2,
+239096,239096Z_2.jpg,Colourised by Zhang2,
+153093,153093Z_2.jpg,Colourised by Zhang2,
+065019,065019Z_2.jpg,Colourised by Zhang2,
+024004,024004Z_2.jpg,Colourised by Zhang2,
+118020,118020Z_2.jpg,Colourised by Zhang2,
+323016,323016Z_2.jpg,Colourised by Zhang2,
+376001,376001Z_2.jpg,Colourised by Zhang2,
+118020,118020P_1.jpg,Colourised by PhotoShop,
+024004,024004P_1.jpg,Colourised by PhotoShop,
+323016,323016P_1.jpg,Colourised by PhotoShop,
+376001,376001P_1.jpg,Colourised by PhotoShop,
+025098,025098P_1.jpg,Colourised by PhotoShop,
+239096,239096P_1.jpg,Colourised by PhotoShop,
+022090,022090P_1.jpg,Colourised by PhotoShop,
+153093,153093P_1.jpg,Colourised by PhotoShop,
+065019,065019P_1.jpg,Colourised by PhotoShop,
+198023,198023P_1.jpg,Colourised by PhotoShop,
+056028,056028P_1.jpg,Colourised by PhotoShop,
+242078,242078P_1.jpg,Colourised by PhotoShop,
+015004,015004P_1.jpg,Colourised by PhotoShop,
+151087,151087P_1.jpg,Colourised by PhotoShop,
+078019,078019P_1.jpg,Colourised by PhotoShop,
+118035,118035P_1.jpg,Colourised by PhotoShop,
+140075,140075P_1.jpg,Colourised by PhotoShop,
+187029,187029P_1.jpg,Colourised by PhotoShop,
+022093,022093P_1.jpg,Colourised by PhotoShop,
+046076,046076P_1.jpg,Colourised by PhotoShop,
