@@ -27,4 +27,4 @@ And then run the following command from inside the bokeh_app folder locally.
 
 It should run in your web browser. It will require the files in Data, so make sure they are also available locally in the same structure as above.
 
-  ![image](/Bokeh Screenshot.png)
+  ![image](Bokeh Screenshot.png)
