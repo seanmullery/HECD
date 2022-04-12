@@ -5,6 +5,8 @@
 Auto-colourisation is an ill-posed problem with many possible colourisations for a given grey-scale prior.
 The current method for training deep neural networks for colourisation is to take any natural image dataset and convert it to a luminance-chrominance colour space. The luminance is then the prior and the two chrominance channels represent the ground truth target that the model must learn to predict. This allows only a single plausible colourisation for a grey-scale prior.
 
+Paper https://arxiv.org/abs/2204.05200
+
 We have created at dataset of 20 scenes with 65 re-colourisations or each scene for a total of 20+1300=1320 images.
 We then crowd sourced human opinion of the naturalness of the colourisation via the Amazon Mechanical Turk.  
 The 1320 images can be found in the folder HECDImages.
@@ -29,3 +31,14 @@ It should run in your web browser. It will require the files in Data, so make su
 This is still a bit of a work in progress. In the legend A stands for images that are modifications from the ground truth while N stands for images that are modified from the White balanced corrected version.
 
   ![image](Bokeh_Screenshot.png)
+  
+If you use this database or its results please cite as follows
+
+@misc{mullery2022HECD,
+      title={Human vs Objective Evaluation of Colourisation Performance}, 
+      author={Seán Mullery and Paul F. Whelan},
+      year={2022},
+      eprint={2204.05200},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
