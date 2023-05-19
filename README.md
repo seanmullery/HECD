@@ -32,6 +32,16 @@ This is still a bit of a work in progress. In the legend A stands for images tha
 
   ![image](Bokeh_Screenshot.png)
   
+## Comparing Human opinion with objective measures
+The python code to compare the HECD results with many objective measures is contained in CompareHumanWithObjective.py which will output the Spearman and Kendal Correlation tables in CSV format. Note that every second column gives the p-value for the correlation score in the previous column.
+Because the LPIPS method takes a long time to run (particularly for VGG) it is run from a separate file called CompareHumanWithLpips.py. This will also create separate csv files. Note that you may change the network 'vgg' or 'alex' depending on which network you wish LPIPS to be based.
+
+
+
+
+
+
+
 If you use this database or its results please cite as follows
 
 @misc{mullery2022HECD,
