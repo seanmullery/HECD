@@ -53,5 +53,5 @@ If you use this database or its results please cite as follows
       primaryClass={cs.CV}
 }
 
-You can read about the larger context surrounding this work in the PhD Thesis, [Rethinking Auto-colourisation in the context of Deep Learning](https://doras.dcu.ie/28111/)
+You can read about the larger context surrounding this work in the PhD Thesis, [Rethinking Auto-colourisation of natural images in the context of Deep Learning](https://doras.dcu.ie/28111/)
 
