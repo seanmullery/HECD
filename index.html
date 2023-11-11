@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>HECD (Human Evaluated Colourisation Dataset) | HECD</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="HECD (Human Evaluated Colourisation Dataset)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Human Evaluated Colourisation Dataset" />
+<meta property="og:description" content="Human Evaluated Colourisation Dataset" />
+<link rel="canonical" href="https://seanmullery.github.io/HECD/" />
+<meta property="og:url" content="https://seanmullery.github.io/HECD/" />
+<meta property="og:site_name" content="HECD" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="HECD (Human Evaluated Colourisation Dataset)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Human Evaluated Colourisation Dataset","headline":"HECD (Human Evaluated Colourisation Dataset)","name":"HECD","url":"https://seanmullery.github.io/HECD/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/HECD/assets/css/style.css?v=1eb7b3afc3061cd94eb23f464ca7f153452281b1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/HECD/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <meta name="google-site-verification" content="fnevZjAQzGXrltmkeqvS9uQxN6jj_g7YvK_clMydmks" />
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+
+      <h1><a href="https://seanmullery.github.io/HECD/">HECD</a></h1>
+
+
+      <h1 id="hecd-human-evaluated-colourisation-dataset">HECD (Human Evaluated Colourisation Dataset)</h1>
+
+<h2 id="this-is-a-dataset-of-20-scenes-with-65-recolourisations-of-each-scene">This is a dataset of 20 scenes with 65 recolourisations of each scene.</h2>
+
+<p>Auto-colourisation is an ill-posed problem with many possible colourisations for a given grey-scale prior.
+The current method for training deep neural networks for colourisation is to take any natural image dataset and convert it to a luminance-chrominance colour space. The luminance is then the prior and the two chrominance channels represent the ground truth target that the model must learn to predict. This allows only a single plausible colourisation for a grey-scale prior.</p>
+
+<p>Paper https://arxiv.org/abs/2204.05200</p>
+
+<p>We have created at dataset of 20 scenes with 65 re-colourisations or each scene for a total of 20+1300=1320 images.
+We then crowd sourced human opinion of the naturalness of the colourisation via the Amazon Mechanical Turk.<br />
+The 1320 images can be found in the folder HECDImages.
+The associated average score for each recolourisation can be found in Data/mean_zscores.csv. This file along with the image data can be used to compare with objective methods.</p>
+
+<p>The details of what re-colourisations are included in the set can be found in Data/recolour_mod_details.csv and are explained in our paper.</p>
+
+<p>The Raw data taken from the AMT can be found in Data/raw_data.csv.
+Some problematic data is removed as explained in the paper and the cleaned data can be found at Data/clean_raw_data.csv.
+As explained in the paper, the data is then processed and the processed data can be found in Data/reformatted_data.csv.</p>
+
+<p>The bokeh_app folder, contains an interactive app to help navigate the statistics of the dataset.</p>
+
+<p>To run this you will have to <a href="https://docs.bokeh.org/en/latest/docs/first_steps.html#first-steps">install bokeh</a></p>
+
+<p>And then run the following command from inside the bokeh_app folder locally.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bokeh serve --show bokeh_analysis.py
+</code></pre></div></div>
+
+<p>It should run in your web browser. It will require the files in Data, so make sure they are also available locally in the same structure as above.
+This is still a bit of a work in progress. In the legend A stands for images that are modifications from the ground truth while N stands for images that are modified from the White balanced corrected version.</p>
+
+<p><img src="/HECD/Bokeh_Screenshot.png" alt="image" /></p>
+
+<h2 id="comparing-human-opinion-with-objective-measures">Comparing Human opinion with objective measures</h2>
+<p>The python code to compare the HECD results with many objective measures is contained in CompareHumanWithObjective.py which will output the Spearman and Kendal Correlation tables in CSV format. Note that every second column gives the p-value for the correlation score in the previous column.
+Because the LPIPS method takes a long time to run (particularly for VGG) it is run from a separate file called CompareHumanWithLpips.py. This will also create separate csv files. Note that you may change the network ‘vgg’ or ‘alex’ depending on which network you wish LPIPS to be based.</p>
+
+<p>If you use this database or its results please cite as follows</p>
+
+<p>@misc{mullery2022HECD,
+      title={Human vs Objective Evaluation of Colourisation Performance},
+      author={Seán Mullery and Paul F. Whelan},
+      year={2022},
+      eprint={2204.05200},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}</p>
+
+
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
